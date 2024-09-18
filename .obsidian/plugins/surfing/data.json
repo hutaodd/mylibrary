@@ -46,18 +46,6 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "e0e47a0fc9f44a7b",
-      "parent": 0,
-      "droppable": true,
-      "text": "你好 - 搜索",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true
 }
