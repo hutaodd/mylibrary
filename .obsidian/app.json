@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "readableLineLength": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "附件",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
+}

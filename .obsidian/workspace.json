@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "dec6deadfe2f9c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f547e9505a6315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dff3a7055407da3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68976960d94e9e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb836684376b1deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea713993cf790b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "45244199b8da4727",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#屏幕模块",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb8884edb76fc19b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a26ac1207b9b426",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "735f5caea4a955b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd0425a191f2d19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "df85f184cda00538",
+    "type": "split",
+    "children": [
+      {
+        "id": "1feac0afa31426ab",
+        "type": "tabs",
+        "dimension": 41.37931034482759,
+        "children": [
+          {
+            "id": "ce57dc2ba3c6bcaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84ed1a52737c5dde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d88374e3c7bf4fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0bdfa69512e918c6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbb3b858035a4dcb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7dae51d95baef44e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e540bd41f278e8c3",
+        "type": "tabs",
+        "dimension": 58.62068965517241,
+        "children": [
+          {
+            "id": "a6bfc4b039a9934a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "surfing:surfing-bookmark-manager": false,
+      "pkmer:Open Pkmer Market": false,
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "7dff3a7055407da3",
+  "lastOpenFiles": [
+    "未命名.md",
+    "计算机网络/未命名看板.md",
+    "计算机.md",
+    "计算机网络",
+    "杂项/801计算机专业基础.pdf",
+    "米家IOT/资料.md",
+    "考研规划/考试科目参考-西工大.md",
+    "大创/心率、血氧、姿态、体温检测手表的设计方案.md",
+    "杂项/JetBrains Mono 教程.md",
+    "杂项/esp32开发记录.md",
+    "杂项/我的vscode美化指南.md",
+    "杂项/未命名 1.canvas",
+    "传智杯程序设计/程序设计赛道往届赛题.md",
+    "Java学习手册/学习笔记.md",
+    "image/程序设计赛道往届赛题-1725723890750.jpeg",
+    "传智杯程序设计",
+    "Untitled.loom",
+    "计划清单.md",
+    "励志的计划",
+    "SQL学习手册/图书管理系统.md",
+    "SQL学习手册/第四次上机.md",
+    "SQL学习手册/第三次上机.md",
+    "SQL学习手册/第二次上机.md",
+    "SQL学习手册/第一次上机.md",
+    "杂项/Pasted image 20240416144741.png",
+    "image/第四次上机-1714984282801.jpeg",
+    "image/第四次上机-1714984239881.jpeg",
+    "image/第四次上机-1714984182849.jpeg",
+    "image/第四次上机-1714984002559.jpeg",
+    "image/第四次上机-1714983968334.jpeg",
+    "image/第四次上机-1714983883329.jpeg",
+    "image/第四次上机-1714983834085.jpeg",
+    "image/第四次上机-1714983778316.jpeg",
+    "数模竞赛/农村公交与异构无人机协同配送优化.md",
+    "数模竞赛/__pycache__/app1.cpython-311.pyc",
+    "数模竞赛/__pycache__/test.cpython-311.pyc",
+    "数模竞赛/test.py",
+    "数模竞赛/最优配送计划.xlsx",
+    "数模竞赛/new.py",
+    "数模竞赛/代码.md",
+    "阿萨.md",
+    "力扣/有效的括号.md",
+    "力扣/Halo算法.md",
+    "力扣/最长公共前缀.md",
+    "力扣/寻找两个正序数组的中位数.md",
+    "杂项/README.md",
+    "杂项/小说转视频.md",
+    "杂项/未命名.canvas"
+  ]
+}

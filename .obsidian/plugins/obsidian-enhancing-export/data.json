@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "Markdown",
+      "arguments": "-f ${fromFormat} --resource-path=\"F:/obsidianlibrary/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/markdown.lua\" -s -o \"${outputPath}\" -t commonmark_x-attributes"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html",
+      "arguments": "-f ${fromFormat} --resource-path=\"F:/obsidianlibrary/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/math_block.lua\" --embed-resources --standalone --metadata title=\"${currentFileName}\" -s -o \"${outputPath}\" -t html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF",
+      "arguments": "-f ${fromFormat} --resource-path=\"F:/obsidianlibrary/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/pdf.lua\" ${ options.textemplate ? `--resource-path=\"${pluginDir}/textemplate\" --template=\"${options.textemplate}\"` : ` ` } -s -o \"${outputPath}\" -t pdf"
+    },
+    {
+      "name": "Word (.docx)",
+      "arguments": "-f ${fromFormat} --resource-path=\"F:/OneDrive - MSFT/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" -s -o \"${outputPath}\" -t docx"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\xuee\\Desktop"
+  },
+  "lastExportType": "Markdown",
+  "lastEditName": "Word (.docx)"
+}
