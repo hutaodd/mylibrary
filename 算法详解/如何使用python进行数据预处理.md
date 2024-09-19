@@ -8,6 +8,6 @@ date: 2024-09-20 02:51:54
 
 ```python
 a = list(map(int,input().split()))
-测试
+
 ```
-同步效果不错呢 
+ 
