@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8815832140e3cdcb",
+            "id": "31f68ab5f2883276",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "算法详解/如何使用python进行数据预处理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -33,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "算法详解/如何使用python进行数据预处理.md"
+              }
             }
           },
           {
@@ -104,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法详解/如何使用python进行数据预处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法详解/如何使用python进行数据预处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +205,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8815832140e3cdcb",
+  "active": "31f68ab5f2883276",
   "lastOpenFiles": [
+    "Untitled.loom",
+    "算法详解/如何使用python进行数据预处理.md",
+    "算法详解",
     "什么是计算机网络.md",
     "mew.md",
     "计算机网络/未命名看板.md",
@@ -216,7 +227,6 @@
     "Java学习手册/学习笔记.md",
     "image/程序设计赛道往届赛题-1725723890750.jpeg",
     "传智杯程序设计",
-    "Untitled.loom",
     "计划清单.md",
     "励志的计划",
     "SQL学习手册/图书管理系统.md",
@@ -238,14 +248,11 @@
     "数模竞赛/__pycache__/test.cpython-311.pyc",
     "数模竞赛/test.py",
     "数模竞赛/最优配送计划.xlsx",
-    "数模竞赛/new.py",
     "数模竞赛/代码.md",
     "阿萨.md",
     "力扣/有效的括号.md",
     "力扣/Halo算法.md",
     "力扣/最长公共前缀.md",
-    "力扣/寻找两个正序数组的中位数.md",
-    "杂项/README.md",
     "杂项/未命名.canvas"
   ]
 }
