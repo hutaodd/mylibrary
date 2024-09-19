@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "vimMode": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "newFileLocation": "root",
   "newFileFolderPath": "附件",
   "showUnsupportedFiles": true,
