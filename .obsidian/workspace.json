@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40f547e9505a6315",
+        "id": "5ba9b9ea1588c21a",
         "type": "tabs",
         "children": [
           {
-            "id": "7dff3a7055407da3",
+            "id": "8815832140e3cdcb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,14 +155,6 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "7dae51d95baef44e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -197,15 +189,15 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "excalidraw-cn:Create New Excalidraw File": false,
       "surfing:surfing-bookmark-manager": false,
       "pkmer:Open Pkmer Market": false,
       "media-extended:Open media": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false
+      "notion-like-tables:Create loom": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7dff3a7055407da3",
+  "active": "8815832140e3cdcb",
   "lastOpenFiles": [
     "什么是计算机网络.md",
     "mew.md",

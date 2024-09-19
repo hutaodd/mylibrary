@@ -7,7 +7,7 @@
   "defaultEmbedHeight": "340px",
   "hasMigratedTo800": true,
   "showWelcomeModal": false,
-  "showWhatsNewModal": true,
   "defaultFrozenColumnCount": 1,
-  "pluginVersion": "8.15.12"
+  "pluginVersion": "8.16.1",
+  "showWhatsNewModal": true
 }
