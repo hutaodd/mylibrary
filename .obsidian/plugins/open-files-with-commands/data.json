@@ -5,12 +5,12 @@
   "updateCommandsOnRename": true,
   "commands": [
     {
-      "id": "f66887f9-5529-41b8-b4ed-f64611026add",
+      "id": "5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
       "name": "同步",
       "filePath": "同步.lnk",
       "openFileIn": "activeTab",
       "command": {
-        "id": "open-files-with-commands:f66887f9-5529-41b8-b4ed-f64611026add",
+        "id": "open-files-with-commands:5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
         "name": "Open files with commands: 同步"
       }
     }

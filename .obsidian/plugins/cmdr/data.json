@@ -1,12 +1,12 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "open-files-with-commands:f66887f9-5529-41b8-b4ed-f64611026add",
+      "id": "open-files-with-commands:5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
       "icon": "arrow-left-right",
       "name": "Open files with commands: 同步",
       "mode": "any"

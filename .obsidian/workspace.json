@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS61B.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS61B.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS61B.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS61B.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,14 +202,15 @@
       "media-extended:Open media": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "cmdr:Open files with commands: 同步": false
     }
   },
-  "active": "8dd0425a191f2d19",
+  "active": "31f68ab5f2883276",
   "lastOpenFiles": [
     "同步.lnk",
     "算法详解/如何使用python进行数据预处理.md",
-    "CS61B.md",
+    "未命名.md",
     "Untitled.loom",
     "算法详解",
     "什么是计算机网络.md",
