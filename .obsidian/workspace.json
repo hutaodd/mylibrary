@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法详解/如何使用python进行数据预处理.md",
+                "file": "CS61B.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法详解/如何使用python进行数据预处理.md"
+                "file": "CS61B.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法详解/如何使用python进行数据预处理.md",
+                "file": "CS61B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法详解/如何使用python进行数据预处理.md",
+                "file": "CS61B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +205,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "31f68ab5f2883276",
+  "active": "8dd0425a191f2d19",
   "lastOpenFiles": [
+    "同步.lnk",
     "算法详解/如何使用python进行数据预处理.md",
+    "CS61B.md",
     "Untitled.loom",
     "算法详解",
     "什么是计算机网络.md",
@@ -252,7 +254,6 @@
     "阿萨.md",
     "力扣/有效的括号.md",
     "力扣/Halo算法.md",
-    "力扣/最长公共前缀.md",
     "杂项/未命名.canvas"
   ]
 }
