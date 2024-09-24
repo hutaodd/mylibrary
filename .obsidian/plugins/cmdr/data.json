@@ -17,7 +17,14 @@
   "statusBar": [],
   "pageHeader": [],
   "macros": [],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "open-files-with-commands:5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
+      "icon": "aperture",
+      "name": "Open files with commands: 同步",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
