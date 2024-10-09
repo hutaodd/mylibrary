@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opencv,YOLO/python与opencv配置安装.md",
+                "file": "opencv,YOLO/目标一 车辆检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opencv,YOLO/python与opencv配置安装.md"
+                "file": "opencv,YOLO/目标一 车辆检测.md"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opencv,YOLO/python与opencv配置安装.md",
+                "file": "opencv,YOLO/目标一 车辆检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opencv,YOLO/python与opencv配置安装.md",
+                "file": "opencv,YOLO/目标一 车辆检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +208,10 @@
   },
   "active": "b2a15a34b156df14",
   "lastOpenFiles": [
+    "opencv,YOLO/python与opencv配置安装.md",
+    "opencv,YOLO/目标一 车辆检测.md",
     "Pasted image 20241009203451.png",
     "未命名.md",
-    "opencv,YOLO/python与opencv配置安装.md",
     "opencv,YOLO",
     "同步.lnk",
     "算法详解/如何使用python进行数据预处理.md",
@@ -248,7 +249,6 @@
     "image/第四次上机-1714983968334.jpeg",
     "image/第四次上机-1714983883329.jpeg",
     "image/第四次上机-1714983834085.jpeg",
-    "image/第四次上机-1714983778316.jpeg",
     "数模竞赛/农村公交与异构无人机协同配送优化.md",
     "数模竞赛/__pycache__/app1.cpython-311.pyc",
     "数模竞赛/__pycache__/test.cpython-311.pyc",
