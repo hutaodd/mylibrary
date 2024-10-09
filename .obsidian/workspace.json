@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31f68ab5f2883276",
+            "id": "b2a15a34b156df14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "opencv,YOLO/python与opencv配置安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "opencv,YOLO/python与opencv配置安装.md"
               }
             }
           },
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 200
   },
   "right": {
     "id": "df85f184cda00538",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "opencv,YOLO/python与opencv配置安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "opencv,YOLO/python与opencv配置安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +206,14 @@
       "cmdr:Open files with commands: 同步": false
     }
   },
-  "active": "31f68ab5f2883276",
+  "active": "b2a15a34b156df14",
   "lastOpenFiles": [
+    "Pasted image 20241009203451.png",
+    "未命名.md",
+    "opencv,YOLO/python与opencv配置安装.md",
+    "opencv,YOLO",
     "同步.lnk",
     "算法详解/如何使用python进行数据预处理.md",
-    "未命名.md",
     "Untitled.loom",
     "算法详解",
     "什么是计算机网络.md",
@@ -249,12 +252,9 @@
     "数模竞赛/农村公交与异构无人机协同配送优化.md",
     "数模竞赛/__pycache__/app1.cpython-311.pyc",
     "数模竞赛/__pycache__/test.cpython-311.pyc",
-    "数模竞赛/test.py",
-    "数模竞赛/最优配送计划.xlsx",
     "数模竞赛/代码.md",
     "阿萨.md",
     "力扣/有效的括号.md",
-    "力扣/Halo算法.md",
     "杂项/未命名.canvas"
   ]
 }
