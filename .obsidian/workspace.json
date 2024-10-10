@@ -206,8 +206,9 @@
       "cmdr:Open files with commands: 同步": false
     }
   },
-  "active": "b2a15a34b156df14",
+  "active": "8dd0425a191f2d19",
   "lastOpenFiles": [
+    "LICENSE",
     "opencv,YOLO/python与opencv配置安装.md",
     "opencv,YOLO/目标一 车辆检测.md",
     "Pasted image 20241009203451.png",
@@ -254,7 +255,6 @@
     "数模竞赛/__pycache__/test.cpython-311.pyc",
     "数模竞赛/代码.md",
     "阿萨.md",
-    "力扣/有效的括号.md",
     "杂项/未命名.canvas"
   ]
 }
