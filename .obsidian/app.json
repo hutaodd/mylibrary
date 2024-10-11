@@ -5,7 +5,7 @@
   "newFileLocation": "root",
   "newFileFolderPath": "附件",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "附件",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "pdfExportSettings": {
@@ -14,5 +14,6 @@
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
-  }
+  },
+  "useMarkdownLinks": true
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opencv,YOLO/目标一 车辆检测.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "bb836684376b1deb",
         "type": "tabs",
-        "dimension": 63.62586605080831,
+        "dimension": 31.758241758241756,
         "children": [
           {
             "id": "dea713993cf790b5",
@@ -39,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opencv,YOLO/目标一 车辆检测.md"
+                "file": "OpenCV,YOLO/目标一 车辆检测.md"
               }
             }
           },
@@ -79,7 +79,7 @@
       {
         "id": "735f5caea4a955b4",
         "type": "tabs",
-        "dimension": 36.37413394919168,
+        "dimension": 68.24175824175825,
         "children": [
           {
             "id": "8dd0425a191f2d19",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opencv,YOLO/目标一 车辆检测.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opencv,YOLO/目标一 车辆检测.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,17 +210,23 @@
   },
   "active": "b2a15a34b156df14",
   "lastOpenFiles": [
-    "Pasted image 20241011152715.png",
-    "Pasted image 20241011152227.png",
-    "Pasted image 20241011152003.png",
+    "附件/目标一_车辆检测.jpg",
+    "附件/python与opencv配置安装.jpg",
+    "OpenCV,YOLO/目标一 车辆检测.md",
+    "OpenCV,YOLO/python与opencv配置安装.md",
+    "附件/Pasted image 20241011150220.png",
     "Pasted image 20241011150220.png",
     "Pasted image 20241010211940.png",
+    "附件/Pasted image 20241011152227.png",
+    "附件/Pasted image 20241011152003.png",
+    "附件/Pasted image 20241010211940.png",
+    "附件/Pasted image 20241011152715.png",
+    "未命名/desktop.ini",
+    "附件",
+    "目标一_车辆检测 1.jpg",
     "LICENSE",
-    "opencv,YOLO/python与opencv配置安装.md",
-    "opencv,YOLO/目标一 车辆检测.md",
-    "Pasted image 20241009203451.png",
     "未命名.md",
-    "opencv,YOLO",
+    "OpenCV,YOLO",
     "同步.lnk",
     "算法详解/如何使用python进行数据预处理.md",
     "Untitled.loom",
@@ -240,21 +246,14 @@
     "杂项/未命名 1.canvas",
     "传智杯程序设计/程序设计赛道往届赛题.md",
     "Java学习手册/学习笔记.md",
-    "image/程序设计赛道往届赛题-1725723890750.jpeg",
     "传智杯程序设计",
     "计划清单.md",
-    "励志的计划",
     "SQL学习手册/图书管理系统.md",
     "SQL学习手册/第四次上机.md",
     "SQL学习手册/第三次上机.md",
     "SQL学习手册/第二次上机.md",
     "SQL学习手册/第一次上机.md",
-    "杂项/Pasted image 20240416144741.png",
-    "image/第四次上机-1714984282801.jpeg",
-    "image/第四次上机-1714984239881.jpeg",
-    "image/第四次上机-1714984182849.jpeg",
     "数模竞赛/农村公交与异构无人机协同配送优化.md",
-    "数模竞赛/__pycache__/app1.cpython-311.pyc",
     "数模竞赛/代码.md",
     "阿萨.md",
     "杂项/未命名.canvas"

@@ -6,10 +6,10 @@
   "showMetadata": false,
   "recursive": false,
   "authorInfo": {
-    "show": false,
+    "show": true,
     "align": "left",
     "position": "bottom",
-    "name": ""
+    "name": "薛谔"
   },
   "watermark": {
     "enable": false,
