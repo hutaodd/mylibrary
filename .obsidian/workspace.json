@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1dc33cd37d9a635",
+            "id": "4d71484762ca5400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "计算机网络/习题.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "bb836684376b1deb",
         "type": "tabs",
-        "dimension": 50.40745052386496,
+        "dimension": 50.407450523864966,
         "children": [
           {
             "id": "dea713993cf790b5",
@@ -39,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md"
+                "file": "计算机网络/习题.md"
               }
             }
           },
@@ -79,7 +79,7 @@
       {
         "id": "735f5caea4a955b4",
         "type": "tabs",
-        "dimension": 49.59254947613504,
+        "dimension": 49.592549476135034,
         "children": [
           {
             "id": "8dd0425a191f2d19",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "计算机网络/习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "计算机网络/习题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,10 +208,16 @@
       "cmdr:Open files with commands: 同步": false
     }
   },
-  "active": "c1dc33cd37d9a635",
+  "active": "4d71484762ca5400",
   "lastOpenFiles": [
-    "OpenCV,YOLO/python与opencv配置安装.md",
+    "附件/Pasted image 20241014014138.png",
+    "计算机网络/习题.md",
+    "未命名.md",
+    "未命名/desktop.ini",
+    "计算机网络",
     "OpenCV,YOLO/目标一 车辆检测.md",
+    "附件/Pasted image 20241014005327.png",
+    "OpenCV,YOLO/python与opencv配置安装.md",
     "1.0,2.0],[3.0,4.0.md",
     "Untitled.loom",
     "web渗透/openfire.md",
@@ -225,9 +231,7 @@
     "附件/Pasted image 20241011152003.png",
     "附件/Pasted image 20241010211940.png",
     "附件/Pasted image 20241011152715.png",
-    "未命名/desktop.ini",
     "附件",
-    "目标一_车辆检测 1.jpg",
     "LICENSE",
     "OpenCV,YOLO",
     "同步.lnk",
@@ -238,7 +242,6 @@
     "计算机网络/未命名看板.md",
     "计算机.md",
     "计算机网络",
-    "杂项/801计算机专业基础.pdf",
     "米家IOT/资料.md",
     "考研规划/考试科目参考-西工大.md",
     "大创/心率、血氧、姿态、体温检测手表的设计方案.md",
@@ -254,9 +257,6 @@
     "SQL学习手册/第三次上机.md",
     "SQL学习手册/第二次上机.md",
     "SQL学习手册/第一次上机.md",
-    "数模竞赛/农村公交与异构无人机协同配送优化.md",
-    "数模竞赛/代码.md",
-    "阿萨.md",
     "杂项/未命名.canvas"
   ]
 }
