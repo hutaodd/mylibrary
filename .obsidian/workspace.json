@@ -205,7 +205,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notion-like-tables:Create loom": false,
       "obsidian-kanban:创建新看板": false,
-      "cmdr:Open files with commands: 同步": false
+      "cmdr:Open files with commands: 同步": false,
+      "obsidian-git-sync:Git同步": false
     }
   },
   "active": "8dd0425a191f2d19",
