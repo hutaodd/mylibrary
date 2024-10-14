@@ -3,18 +3,7 @@
   "openFileIn": "activeTab",
   "deleteCommandWhenFileIsDeleted": true,
   "updateCommandsOnRename": true,
-  "commands": [
-    {
-      "id": "62f3fa50-5bec-4795-8e37-c210b76e78e0",
-      "name": "同步.exe",
-      "filePath": "附件/同步.exe",
-      "openFileIn": "activeTab",
-      "command": {
-        "id": "open-files-with-commands:62f3fa50-5bec-4795-8e37-c210b76e78e0",
-        "name": "Open files with commands: 同步.exe"
-      }
-    }
-  ],
+  "commands": [],
   "customVariables": [
     {
       "name": "date",

@@ -4,27 +4,13 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "open-files-with-commands:62f3fa50-5bec-4795-8e37-c210b76e78e0",
-      "icon": "aperture",
-      "name": "Open files with commands: 同步",
-      "mode": "any"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
   "macros": [],
-  "explorer": [
-    {
-      "id": "open-files-with-commands:62f3fa50-5bec-4795-8e37-c210b76e78e0",
-      "icon": "aperture",
-      "name": "Open files with commands: 同步",
-      "mode": "any"
-    }
-  ],
+  "explorer": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
