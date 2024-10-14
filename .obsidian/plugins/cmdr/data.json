@@ -6,8 +6,8 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "open-files-with-commands:5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
-      "icon": "arrow-left-right",
+      "id": "open-files-with-commands:62f3fa50-5bec-4795-8e37-c210b76e78e0",
+      "icon": "aperture",
       "name": "Open files with commands: 同步",
       "mode": "any"
     }
