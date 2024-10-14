@@ -1,7 +1,7 @@
 {
   "gitRepoPath": "F:\\OneDrive - MSFT\\薛谔的obsidian库",
   "syncButtonLocation": "ribbon",
-  "autoSync": true,
+  "autoSync": false,
   "autoSyncInterval": 1,
   "syncOnBlur": true,
   "autoSyncOnClose": true
