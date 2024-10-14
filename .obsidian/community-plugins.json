@@ -22,5 +22,6 @@
   "obsidian-markmind",
   "cmdr",
   "open-files-with-commands",
-  "sample-plugin"
+  "sample-plugin",
+  "obsidian-git-sync"
 ]
