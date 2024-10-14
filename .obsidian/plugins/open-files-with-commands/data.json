@@ -7,7 +7,7 @@
     {
       "id": "5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
       "name": "同步",
-      "filePath": "同步.lnk",
+      "filePath": "同步.exe",
       "openFileIn": "activeTab",
       "command": {
         "id": "open-files-with-commands:5f1e42eb-b6dc-4a7c-b5dc-278e1a37c550",
