@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/习题.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/习题.md"
+                "file": "OpenCV,YOLO/目标一 车辆检测.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/习题.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/习题.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,20 +208,20 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "8dd0425a191f2d19",
+  "active": "4d71484762ca5400",
   "lastOpenFiles": [
+    "OpenCV,YOLO/python与opencv配置安装.md",
+    "计算机网络/习题.md",
     "附件/同步.exe",
     "gitsync.log",
     "附件/同步.exe",
     "附件/Pasted image 20241014015841.png",
     "附件/Pasted image 20241014014138.png",
-    "计算机网络/习题.md",
     "未命名.md",
     "未命名/desktop.ini",
     "计算机网络",
     "OpenCV,YOLO/目标一 车辆检测.md",
     "附件/Pasted image 20241014005327.png",
-    "OpenCV,YOLO/python与opencv配置安装.md",
     "1.0,2.0],[3.0,4.0.md",
     "Untitled.loom",
     "web渗透/openfire.md",
@@ -236,7 +236,6 @@
     "附件",
     "LICENSE",
     "OpenCV,YOLO",
-    "同步.lnk",
     "算法详解/如何使用python进行数据预处理.md",
     "什么是计算机网络.md",
     "mew.md",
