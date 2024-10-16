@@ -3,7 +3,18 @@
   "openFileIn": "activeTab",
   "deleteCommandWhenFileIsDeleted": true,
   "updateCommandsOnRename": true,
-  "commands": [],
+  "commands": [
+    {
+      "id": "b8422975-0354-4fd6-9543-e7fc3f293d9f",
+      "name": "",
+      "filePath": "",
+      "openFileIn": "activeTab",
+      "command": {
+        "id": "",
+        "name": ""
+      }
+    }
+  ],
   "customVariables": [
     {
       "name": "date",

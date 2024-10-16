@@ -23,5 +23,6 @@
   "cmdr",
   "open-files-with-commands",
   "sample-plugin",
-  "obsidian-git-sync"
+  "obsidian-git-sync",
+  "mousewheel-image-zoom"
 ]
