@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b653d6e6cbd53b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法详解/数组和字符串.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b572efdc82e3504c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -39,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md"
+                "file": "web渗透/实验室综合管理与服务平台-登录界面.md"
               }
             }
           },
@@ -112,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,11 +233,13 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "c27b40492f07984f",
+  "active": "b572efdc82e3504c",
   "lastOpenFiles": [
+    "算法详解/数组和字符串.md",
+    "web渗透/实验室综合管理与服务平台-登录界面.md",
+    "OpenCV,YOLO/目标一 车辆检测.md",
     "附件/Pasted image 20241015205527.png",
     "附件/Pasted image 20241015205436.png",
-    "OpenCV,YOLO/目标一 车辆检测.md",
     "附件/Pasted image 20241015204132.png",
     "OpenCV,YOLO/python与opencv配置安装.md",
     "计算机网络/习题.md",
@@ -221,7 +248,6 @@
     "附件/同步.exe",
     "附件/Pasted image 20241014015841.png",
     "附件/Pasted image 20241014014138.png",
-    "未命名.md",
     "未命名/desktop.ini",
     "计算机网络",
     "附件/Pasted image 20241014005327.png",
@@ -233,7 +259,6 @@
     "附件/python与opencv配置安装.jpg",
     "附件/Pasted image 20241011150220.png",
     "Pasted image 20241011150220.png",
-    "Pasted image 20241010211940.png",
     "附件",
     "LICENSE",
     "OpenCV,YOLO",
