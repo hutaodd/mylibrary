@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3c26b3b97e78556",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Untitled.loom"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md"
+                "file": "Untitled.loom"
               }
             }
           },
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "Untitled.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "Untitled.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,8 +243,10 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "bbb3b858035a4dcb",
+  "active": "a3c26b3b97e78556",
   "lastOpenFiles": [
+    "web渗透/实验室综合管理与服务平台-登录界面.md",
+    "Untitled.loom",
     "附件/Pasted image 20241027230527.png",
     "附件/Pasted image 20241027225607.png",
     "附件/Pasted image 20241027225405.png",
@@ -246,9 +258,7 @@
     "附件/Pasted image 20241027223611.png",
     "附件/Pasted image 20241027222958.png",
     "算法详解/数组和字符串.md",
-    "web渗透/实验室综合管理与服务平台-登录界面.md",
     "OpenCV,YOLO/目标一 车辆检测.md",
-    "附件/Pasted image 20241015205527.png",
     "OpenCV,YOLO/python与opencv配置安装.md",
     "计算机网络/习题.md",
     "附件/同步.exe",
@@ -257,7 +267,6 @@
     "未命名/desktop.ini",
     "计算机网络",
     "1.0,2.0],[3.0,4.0.md",
-    "Untitled.loom",
     "web渗透/openfire.md",
     "web渗透",
     "附件",
