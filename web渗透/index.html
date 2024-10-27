@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>Uploader Test</title>
+    <script src="https://mdsysgl.mdit.edu.cn/sysgl/static/plugins/kindeditor-4.1.2/kindeditor.js"></script>
+    <script>
+        function uploadFile() {
+            var fileInput = document.getElementById('fileInput');
+            var formData = new FormData();
+            formData.append('imgFile', fileInput.files[0]); // 添加文件到表单数据
+
+            fetch('https://mdsysgl.mdit.edu.cn/sysgl/static/plugins/kindeditor-4.1.2/jsp/upload_json.jsp?dir=image', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'Accept': 'application/json',
+                    'Origin': 'https://mdsysgl.mdit.edu.cn',
+                    'Referer': 'https://mdsysgl.mdit.edu.cn/sysgl/dlxx/goDlxxPage?mkbh=990501',
+                    'Cookie': 'JSESSIONID=9F998C2561BDCA4AD699C8F594CD904F', // 根据需要设置 Cookie
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error === 0) {
+                    // 上传成功，显示文件的真实路径
+                    alert('上传成功！文件路径: ' + data.url);
+                } else {
+                    alert('上传失败: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('错误:', error);
+            });
+        }
+    </script>
+</head>
+<body>
+    <div class="upload">
+        <input type="file" id="fileInput" accept="*/*" />
+        <input type="button" value="Upload" onclick="uploadFile()" />
+    </div>
+</body>
+</html>
