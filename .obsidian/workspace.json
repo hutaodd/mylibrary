@@ -39,7 +39,7 @@
               "state": {
                 "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "e540bd41f278e8c3",
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,7 +232,7 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "b572efdc82e3504c",
+  "active": "bbb3b858035a4dcb",
   "lastOpenFiles": [
     "附件/Pasted image 20241027230527.png",
     "附件/Pasted image 20241027225607.png",
