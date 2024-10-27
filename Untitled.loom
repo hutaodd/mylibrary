@@ -2,7 +2,57 @@
   "model": {
     "columns": [
       {
-        "id": "cfc1e85e-6d67-4d89-b4a0-2cbd885989a3",
+        "id": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "5df53af4-4090-4241-bd3e-369c6149bd71",
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
@@ -36,9 +86,1317 @@
         "lastEditedDateTime": "2024-10-27T15:46:03.451Z",
         "cells": [
           {
-            "id": "71ff5099-5056-47d8-84c8-da96943b6a3a",
-            "columnId": "cfc1e85e-6d67-4d89-b4a0-2cbd885989a3",
+            "id": "1443d788-41ca-4214-a4fe-807e41ce5e92",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
             "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c94eff35-7500-4bc7-b7a2-d88cfe5aba18",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eabb6bd3-82a0-481e-88fc-4bce008ce99d",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "460fa82e-1f22-4983-a04b-f523b0d25148",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.277Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.277Z",
+        "cells": [
+          {
+            "id": "8faadab9-b3f7-4751-bc89-b9e533505981",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 连接地址",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f89306b3-df32-4443-b90f-b162646c0865",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "jdbc:oracle:thin:@192.168.21.131:1521/shitan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "55a0d539-f5fa-495a-aa7d-5a5bfb12b1fe",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "jdbc连接字符串",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "731f9261-4ded-42cf-95ee-f571b7a27462",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.277Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.277Z",
+        "cells": [
+          {
+            "id": "565bdc1c-d000-4e46-950f-0f60d70a1bea",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 数据库类型",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d4278082-8438-4a19-807b-b3e41ef1a382",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "oracle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f29dc2f0-31f2-4f23-a39b-ff665a815d21",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "数据库类型",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "aebf0eb9-09b2-48d1-ab69-50ae46b5ab80",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.277Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.277Z",
+        "cells": [
+          {
+            "id": "14d2e0a5-ce51-4071-b877-dcd20d943393",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 驱动类名",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d15a1d36-89c2-4e4b-9f9b-517bd0d0e5c4",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "oracle.jdbc.driver.OracleDriver",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c8ebe84c-e4dc-456a-ae23-eb606932310a",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "jdbc驱动的类名",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9142485f-854c-4954-80fa-2af080df4ab4",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "04843d71-c061-4dc7-8ba5-6927885730fc",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* filter类名",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b38614a7-9657-4249-8c53-ab0e24d41ab8",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "com.alibaba.druid.filter.stat.StatFilter",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "00a9f26c-6f47-4a41-bb39-1d8d3977bcc8",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "filter的类名",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1518193a-72e8-49be-8a52-ed02fee500c1",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "59bf7c60-e6e4-46e3-aa4e-98427d424e91",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 获取连接时检测",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ec9a7a7e-ebff-4168-aabf-6d6aa87c842a",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "false",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "db02694a-d162-4973-9f33-e7998adb8573",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "是否在获得连接后检测其可用性",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "22254dda-1537-4309-bf3b-0ed076c04c17",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "4e1eaf99-3fab-4c94-92b8-06691fd1a4c5",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 空闲时检测",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1519dd80-8b6c-486d-9993-5ff549e68367",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "true",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e9bcf337-e231-447d-9cd0-99defb685579",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "是否在连接空闲一段时间后检测其可用性",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "99c1d4e8-cba1-4ee2-90fc-c695a0bd3cc2",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "fb4d7742-d518-4e9c-8e6f-27f121dcd131",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 连接放回连接池时检测",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f5ea5253-f47b-46fb-942e-3b56e3d0fcb5",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "false",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0b7899bc-7300-4c74-b79f-0e104046e54b",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "是否在连接放回连接池后检测其可用性",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b382ab8b-a22a-4c4b-a07d-ef9dd0be014d",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "0e091148-d9c9-4571-ad5e-5105c630a39c",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 初始化连接大小",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "25253132-a8b1-4fdf-b0f9-05afbe749c60",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cfb87dce-0a19-45f9-82b7-a8feaf302fca",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接池建立时创建的初始化连接数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "33350439-9740-4968-84db-efb36cef0d01",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "2487707d-b7eb-482e-8ea8-864ab18b6329",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 最小空闲连接数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "63056b29-b7f9-4f68-9219-5197a4ad79c2",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ba35d70b-4700-411a-9fc8-d538d2af5534",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接池中最小的活跃连接数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cd843a4e-bb9e-4fba-bdc4-8507bc40e749",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "cda8d38f-ed58-436d-879d-1adc2d8b0b5b",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 最大连接数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0ee523fd-e433-494d-a947-c9bdb50ba015",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f628f043-839c-4541-88a6-0c8efea10d94",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接池中最大的活跃连接数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "22c7b1c8-0cb4-49ba-b328-5ee34a26bda3",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "b6f00fc1-102e-4abe-897d-3e4ae9ded2a2",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 查询超时时间",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "212b925f-b8e5-4e99-acd8-052f772d0700",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a424fc96-5dba-4211-b75a-c17c7434f861",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "查询超时时间",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "71cde770-78fa-4e22-8209-3cfcc9dc4b8f",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "d26a9c07-9ab0-4a5a-b388-ec8880e8378c",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 事务查询超时时间",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f21aeae-cd6b-4136-8c89-9eb43619c67c",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ed3ba8e9-f3fb-4fb5-84c3-40ba83856dc2",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "事务查询超时时间",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "388ceb1a-2b05-4e01-a560-8a3c985161cd",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "b40b4e12-f7ec-4e20-bef8-d493593d7706",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 登录超时时间",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d7d52a1b-9e95-4f93-b75c-f5f4f82cd590",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bf6fc8fc-2775-462f-9c1d-88cb32849c87",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7cd0ebac-8b89-4e33-95cc-0d8282ef4259",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "5aa05f0b-a53f-4236-90dc-d05fd33886c7",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 连接有效性检查类名",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9d83bc2b-5bd9-4685-8541-e9ae79833ff8",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "com.alibaba.druid.pool.vendor.OracleValidConnectionChecker",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8b2802b4-d373-4b36-b4be-be5ae6097f41",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e0b03763-319f-4e2e-91dd-64f5abf3c8da",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "d8565065-e6cc-4672-8029-0fb2c943b15d",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* ExceptionSorter类名",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "08307809-f66f-43a8-b66c-2456047199fe",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "com.alibaba.druid.pool.vendor.OracleExceptionSorter",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1b2e54e9-8302-45cd-b867-a732b4c39545",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "71609673-e9e1-41ae-b55f-e3926ca1788b",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "c0abb780-87a0-4e56-9105-b3ba6baeea6f",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 默认autocommit设置",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "315f2394-a3ae-4e3b-a5c6-ebc74d5648f7",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "true",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c5331eb5-7d07-4e04-84d4-eece633e7659",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1fc09622-659f-4ef5-b718-17289801756a",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "24ad0655-ed50-4004-8a13-386652a91ec5",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 默认只读设置",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e0c61907-d2a4-4b33-a541-9aaceb3c20b9",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "null",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "132e583e-f12f-4cd7-94f9-3991af299a58",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "745ba9b3-6523-4359-85e2-21103bf1da2c",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "08baecac-f112-4ebc-9cbf-b724ee0b65c7",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "* 默认事务隔离",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "819da428-ae90-4fac-89f3-936d698ae543",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "null",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c2c0e480-f00e-4d9f-a389-ca4a9d4cf97f",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "83e57a86-071c-497e-b40b-ae9782018f30",
+        "index": 19,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "c456fed0-8244-42b8-9ef5-d3e5f92fcab9",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "等待次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6cedf0a7-20f4-49c4-878c-2bd3a98e5c47",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "248",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eb3118c6-518c-44c0-bb0b-1c01ae2e98a5",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "获取连接时最多等待多少次",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4eac94f1-c4e3-4936-8fa5-e35b2f7e9e8c",
+        "index": 20,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "c4ef1a59-7657-4801-a0c2-96d16e7d49a5",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "等待最大时长",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1b92d133-3c30-43f7-a666-e09429152bc2",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "221867",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "200aa278-a029-44d7-be53-f4e325959423",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "获取连接时最多等待多长时间",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5a88ac3f-6e0e-44c6-91ee-d150d1c83b83",
+        "index": 21,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "a8e587de-f573-445d-abd1-1ca7ef8c5f6f",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "等待线程数量",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4f03395e-1180-4f19-b833-261a026ac185",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "963895ab-ceac-4048-a9d5-d967cb8a733a",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "当前等待获取连接的线程数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "dd9ea107-20a7-487e-900d-d9949a6b4bd4",
+        "index": 22,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "99e51992-6538-49d1-bff0-2fc2dc17ea67",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "事务启动数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eaab7c4f-5e74-4a32-a994-b219b566a306",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "1207",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b04a3eb7-c2fc-4709-bd79-c6f712581741",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "事务开始的个数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5ead0986-2618-4ef7-8f4b-0d1ffa4a7e64",
+        "index": 23,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "059cfe89-4fa6-41f4-832b-29f7173dacaf",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "事务时间分布",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "19eb433f-91e8-4009-9f43-7bf5d6b385bb",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "123,744,100,111,38,90,1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d6bc19de-5c23-4c8a-8702-d5446e62e674",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "事务运行时间分布，分布区间为[0-10 ms, 10-100 ms, 100-1 s, 1-10 s, 10-100 s, >100 s]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1717278c-b0b1-400f-b479-627f7466ecab",
+        "index": 24,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "da7d2917-d2a6-4e08-a1a0-ffdf807b0c8d",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "池中连接数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "65886752-591f-41e0-b41a-719504e7c026",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "54d6f1ff-6081-489f-9f52-2b3c6b1b2f59",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "当前连接池中的数目",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a7bbd3f4-2829-4990-a59b-b77a9e357aca",
+        "index": 25,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "deb52872-43a3-48f0-a52c-b4fda20226a0",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "池中连接数峰值",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5d474a45-41f9-45da-87c3-6d43e5ab89e3",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a7446462-42cd-4a0c-802c-2b277f44723c",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接池中数目的峰值",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fac4942a-3c22-4ab3-bd4e-53b4ac3ca5d7",
+        "index": 26,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "7b3569d0-1954-4845-affe-a115e665b3f1",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "池中连接数峰值时间",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0fae06a6-d7d4-422c-b6b0-15486e266e53",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "2024-10-27 22:09:51",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff316d31-b6ee-4791-a7b7-34283151c757",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接池数目峰值出现的时间",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d11b14f7-e465-49ca-899a-0598dc649a67",
+        "index": 27,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "050b8061-f37c-4e8e-9df9-ad6054b760bb",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "活跃连接数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d07bbdad-7bf8-4dd1-b680-cdce52399849",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6cfa04d2-cd6b-4134-affc-4c3b1d23017b",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "当前连接池中活跃连接数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7abb002d-69db-4bc2-8451-f5df319f9f45",
+        "index": 28,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "bdc8d3f2-2e92-481a-a737-ea0efb418e48",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "活跃连接数峰值",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c905a863-a8bf-417a-acf4-8b187e888fb6",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5a93138-7044-4f80-88ce-2a45207ee773",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接池中活跃连接数峰值",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7e1ad94c-ad36-4994-88ff-6f2f7028414b",
+        "index": 29,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "6ce0d525-994c-4785-b45b-e87152a6bd1a",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "活跃连接数峰值时间",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c3666417-d140-4559-ac14-e034eec7f321",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "2024-10-27 20:54:58",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f4f86f4-59d7-48ab-a19f-80a3437f1038",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "活跃连接池峰值出现的时间",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c41b7436-9d36-47c1-bf29-0745eadda591",
+        "index": 30,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "95bf732e-5590-48b1-8b76-e18418103ef8",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "逻辑连接打开次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "86ee4dfc-edd8-422a-9019-d1b8af82236b",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "10441",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ad56437-ae70-4a21-a727-69aa634e209e",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "产生的逻辑连接建立总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "63ef8285-d055-4e34-bba0-0fe7e97c290a",
+        "index": 31,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "e9c763d8-a4c8-40cc-b213-a457204dfee2",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "逻辑连接关闭次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f85c2ab0-faa8-40be-9002-80a0fa3c3261",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "10441",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f2c2aee-45aa-4b38-8112-2bd40c99fef6",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "产生的逻辑连接关闭总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "38d183a1-2f37-4ff2-881f-760fdfccf86f",
+        "index": 32,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "c1c45497-0399-46e8-aa66-68ae363770b0",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "逻辑连接错误次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59dbdaa0-4a8d-414d-8b31-a63dfb00b04f",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "995626d0-e257-4aca-aa3d-b9ae62d3130c",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "产生的逻辑连接出错总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9c34669b-7383-42b4-b7d4-48d3059ffce7",
+        "index": 33,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "3ae2191c-6aeb-40a3-93dc-088e9145dc44",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "物理连接打开次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5f8d4a8e-1174-4e66-8b4f-cbb425250f3f",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "60",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "074572e9-c43e-4832-b4ad-2eb089554403",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "产生的物理连接建立总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "21870346-c3ef-44c5-8669-72dd16b96aef",
+        "index": 34,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "5b2c8673-6a84-47c5-80fd-61e85d1801a5",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "物理关闭数量",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "070270a4-370b-49f5-a787-6a112ddc2b73",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "58",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ff7acfa-f69d-41ff-94e3-6c56a8f8a7c2",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "产生的物理关闭总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6958f6ae-576d-42a0-813f-d4e115940825",
+        "index": 35,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "5e565028-c2e1-4cce-89c9-42a78e515c01",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "物理连接错误次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94e2dc5a-5148-4046-a674-9ad3f6f2254b",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1fc61e67-ddd8-417b-839c-83595d8f02f8",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "产生的物理连接失败总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6c85df1b-69c1-4b70-961a-20c60d14762d",
+        "index": 36,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "ca6da005-76a4-4f04-a5eb-ba0be199c28f",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "执行数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0b0ee65-17ed-4995-9932-cdf9d8eb7349",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "11844",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ccbf1e5c-0dd0-4242-85eb-d408a003ef86",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "08be7c07-9e7d-4e37-bb99-b8b174e0fb23",
+        "index": 37,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "20bd8400-6330-44bd-bd3a-97a2e3259b4e",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "错误数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6b5855d4-f32e-443a-b53e-8160e26ebe53",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "47f7624c-ccec-44d3-a82e-efb19e56a6e1",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ba55776a-018b-4fc8-8171-a3f18edb2ce7",
+        "index": 38,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "a5b19fe0-d37f-471e-b805-10d07aed1d0d",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "提交数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "34cdd8ca-29c5-4cb6-a1d3-6c8e894fb589",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "1207",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1373b901-189e-4745-b594-fb60aae87b19",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "86a82cf7-3d50-44bc-af2e-455c7750a0d0",
+        "index": 39,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "ac6c1127-ec39-419c-97c9-5bf9cc3800b3",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "回滚数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "47045209-6088-4c6a-90ae-4e4792e7b51e",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e381e2d4-eb51-4911-9ea5-96c90710c3b5",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3c0d266a-8717-4f96-92b7-cec898246eff",
+        "index": 40,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "0c10162a-9ccc-42ac-8884-1b8bf82ada97",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "PSCache访问次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0efe6187-3d26-4d86-a334-4546d9dfa695",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "20bb813c-ead4-42e0-9d6d-fe46f8142559",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "PSCache访问总数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "efa1b914-2ca3-4ddd-8b8d-4c52a788da24",
+        "index": 41,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "6fb72399-0bd9-4ee2-baf3-9346a5ecf4bd",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "PSCache命中次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a5386db4-fbc4-4c12-9417-3128fe4f3a05",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "542dd458-23e6-4844-80f4-0d8d1f49728b",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "PSCache命中次数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6fa7bbbb-381a-40ee-9b2d-b79da225ad32",
+        "index": 42,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "eaad07ac-d0c8-4c2f-8f0a-4b15637bf56e",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "PSCache丢失次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c9a4cc2d-7808-4d9e-b7e1-ce1e31e71bf9",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e4401ee3-b3ea-47db-94ed-f3ee01b0a1c7",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "PSCache丢失次数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9de85f90-a90c-4740-bf4b-70677d1a835d",
+        "index": 43,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "b5b28d25-eb9e-496b-bfa3-1edd25f6d79e",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "连接持有时间分布",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0aa522b9-4b0f-45a7-b42d-de46bd6e5645",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "5903,2491,949,935,70,90,1,2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1412705c-21d0-433b-9d4c-7279f14c1cf0",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "连接持有时间分布，分布区间为[0-1 ms, 1-10 ms, 10-100 ms, 100ms-1s, 1-10 s, 10-100 s, 100-1000 s, >1000 s]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e5c7e6b5-8ce2-4f35-b12e-e00ffa6e9c13",
+        "index": 44,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "c65c80c2-7b3a-4ee3-aa63-ad9fc0ccf313",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "Clob打开次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cf5e10cd-53c1-456c-a631-8b3ec2a6a67a",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6d57575b-f184-4591-b839-de0ecf7d332d",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "Clob打开数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d18297ef-20a0-42f0-b4f2-7fa0779af457",
+        "index": 45,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "8dce050f-fa2e-431b-9cde-b63a9ad13ff5",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "Blob打开次数",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "27754516-1758-4137-a11a-2b91415e993d",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "24dedf25-b79c-4a51-afd0-2da4f30171ca",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "Blob打开数",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d2313f9c-862f-481f-9eb2-a897ad45f4d6",
+        "index": 46,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "a11eeeac-0f0c-4f4b-81b4-4eea108e02a4",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "活跃连接堆栈查看",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "051e5d03-3c5c-4f16-8a05-8abe2a924058",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "[View](https://mdsysgl.mdit.edu.cn/sysgl/druid/activeConnectionStackTrace.html?datasourceId=25211438)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "397cff70-213c-49e3-8190-eb36d0f3ca94",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "StackTrace for active Connection. [[View JSON API\\]](https://mdsysgl.mdit.edu.cn/sysgl/druid/activeConnectionStackTrace-1477347134.json)",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eca8b229-eacf-4e9d-8820-db64371ac441",
+        "index": 47,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "97fae967-2f6b-48df-85a7-f44c98d428be",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "连接池中连接信息",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bb7bb030-b44a-4ae4-bc19-4522a3f780b2",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "[View](https://mdsysgl.mdit.edu.cn/sysgl/druid/connectionInfo.html?datasourceId=1477347134)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1945bd27-7b76-4e23-8bf4-76fd9db25802",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "Info for polling connection. [[View JSON API\\]](https://mdsysgl.mdit.edu.cn/sysgl/druid/connectionInfo-1477347134.json)",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d72dcc3b-1164-4714-bd66-640637192bb6",
+        "index": 48,
+        "sourceId": null,
+        "creationDateTime": "2024-10-27T15:47:14.278Z",
+        "lastEditedDateTime": "2024-10-27T15:47:14.278Z",
+        "cells": [
+          {
+            "id": "372ce532-8fe7-440f-a35a-c7a3a2753897",
+            "columnId": "ae2174bc-6651-4d6d-8760-edad84e9d099",
+            "content": "sql列表",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9b12b0be-0826-4ef9-8933-b51f9e515053",
+            "columnId": "f5cab8b7-5166-4ccb-8fea-8da66efc7be5",
+            "content": "[View](https://mdsysgl.mdit.edu.cn/sysgl/druid/sql.html?dataSourceId=1477347134)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a0474c7d-a078-4ec9-a71a-f6f0bae0fe85",
+            "columnId": "5df53af4-4090-4241-bd3e-369c6149bd71",
+            "content": "Info for SQL.[[View JSON API\\]](https://mdsysgl.mdit.edu.cn/sysgl/druid/sql.json?dataSourceId=1477347134)",
             "hasValidFrontmatter": null
           }
         ]
