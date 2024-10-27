@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "b572efdc82e3504c",
+            "id": "a3c26b3b97e78556",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a3c26b3b97e78556",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "Untitled.loom"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md"
+                "file": "算法详解/数组和字符串.md"
               }
             }
           },
@@ -147,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "算法详解/数组和字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "算法详解/数组和字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "e540bd41f278e8c3",
@@ -243,9 +233,9 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "b572efdc82e3504c",
+  "active": "b653d6e6cbd53b3d",
   "lastOpenFiles": [
-    "Untitled.loom",
+    "web渗透/Untitled.loom",
     "web渗透/实验室综合管理与服务平台-登录界面.md",
     "附件/Pasted image 20241027230527.png",
     "附件/Pasted image 20241027225607.png",
