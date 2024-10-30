@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "OpenCV,YOLO/python与opencv配置安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md"
+                "file": "OpenCV,YOLO/python与opencv配置安装.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "OpenCV,YOLO/python与opencv配置安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "OpenCV,YOLO/python与opencv配置安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,15 +229,15 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "8dd0425a191f2d19",
+  "active": "48d05e1fb56975cc",
   "lastOpenFiles": [
+    "web渗透/实验室综合管理与服务平台-登录界面.md",
     "web渗透/漏洞发现日志.md",
     "web渗透/1.html",
     "web渗透/uploads",
     "web渗透/index.py",
     "web渗透/index.html",
     "web渗透/更多操作 用户名tysys指定建立连接时使用的用户名 连接地址jdbcoraclethin@192.md",
-    "web渗透/实验室综合管理与服务平台-登录界面.md",
     "web渗透/Untitled.loom",
     "OpenCV,YOLO/目标一 车辆检测.md",
     "算法详解/数组和字符串.md",
