@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/习题.md",
+                "file": "算法详解/数组和字符串.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/习题.md"
+                "file": "算法详解/数组和字符串.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/习题.md",
+                "file": "算法详解/数组和字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/习题.md",
+                "file": "算法详解/数组和字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,6 +231,7 @@
   },
   "active": "48d05e1fb56975cc",
   "lastOpenFiles": [
+    "计算机网络/习题.md",
     "OpenCV,YOLO/目标一 车辆检测.md",
     "OpenCV,YOLO/python与opencv配置安装.md",
     "web渗透/实验室综合管理与服务平台-登录界面.md",
@@ -252,7 +253,6 @@
     "附件/Pasted image 20241027223754.png",
     "附件/Pasted image 20241027223611.png",
     "附件/Pasted image 20241027222958.png",
-    "计算机网络/习题.md",
     "附件/同步.exe",
     "gitsync.log",
     "附件/同步.exe",
