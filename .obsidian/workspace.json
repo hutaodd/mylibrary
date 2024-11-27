@@ -11,15 +11,10 @@
             "id": "0fff3f02483f7444",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web渗透/测试.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -122,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web渗透/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "测试 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -229,6 +223,7 @@
   },
   "active": "72a104cbba17b034",
   "lastOpenFiles": [
+    "web渗透/测试.md",
     "web渗透/未命名.md",
     "web渗透/实验室综合管理与服务平台-登录界面.md",
     "web渗透/DS_Store.md",
@@ -258,7 +253,6 @@
     "web渗透/整数型SQL注入.md",
     "202411272308.md",
     "未命名.md",
-    "web渗透/比赛形式.md",
     "tools",
     "tools.md/desktop.ini",
     "web渗透/assets/image-20241112131653-uwasz8c.png",
