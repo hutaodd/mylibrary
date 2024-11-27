@@ -11,10 +11,15 @@
             "id": "6104ebe077e9c45c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "web渗透/vim缓存.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "vim缓存"
             }
           }
         ]
@@ -171,6 +176,9 @@
   },
   "active": "6104ebe077e9c45c",
   "lastOpenFiles": [
+    "web渗透/vim缓存-DESKTOP-N98RDP3.md",
+    "/web渗透/vim缓存.md",
+    "/web渗透/vim缓存-DESKTOP-N98RDP3.md",
     "web渗透/assets/image-20241110215211-og124ym.png",
     "web渗透/assets/image-20241112013632-zq86wxd.png",
     "web渗透/assets/image-20241110214823-sfrmvzx.png",
@@ -181,7 +189,6 @@
     "web渗透/assets/image-20241112030137-b64jqpm.png",
     "web渗透/assets/image-20241113132655-b56dpxo.png",
     "web渗透/assets/image-20241112131527-7l2nh1e.png",
-    "web渗透/assets/image-20241112014013-zaj2znh.png",
     "web渗透/kali安装.md",
     "web渗透/HG泄露.md",
     "web渗透/DS_Store.md",
@@ -206,8 +213,6 @@
     "web渗透/svn泄露.md",
     "web渗透/漏洞发现日志.md",
     "web渗透/vim缓存.md",
-    "web渗透/报错型sql注入.md",
-    "web渗透/MySQL结构.md",
     "web渗透",
     "计算机网络/assets",
     "计算机网络"
