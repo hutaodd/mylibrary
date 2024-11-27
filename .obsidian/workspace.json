@@ -184,7 +184,7 @@
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "源代码管理"
             }
           }
         ],
@@ -226,7 +226,7 @@
       "i18n:I18N": false,
       "pkmer:打开 Pkmer 插件市场": false,
       "vscode-editor:新建代码文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:打开Git源代码管理": false
     }
   },
   "active": "a23e69545f658b4d",
