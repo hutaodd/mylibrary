@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a418f3341fe48f4c",
+        "id": "c0836db1f29dfa3d",
         "type": "tabs",
         "children": [
           {
-            "id": "590b7e4e40f37050",
+            "id": "a23e69545f658b4d",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -222,7 +222,7 @@
       "i18n:I18N": false
     }
   },
-  "active": "590b7e4e40f37050",
+  "active": "a23e69545f658b4d",
   "lastOpenFiles": [
     "web渗透/vim缓存.md",
     "计算机网络/习题.md",
