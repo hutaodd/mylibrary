@@ -5,7 +5,7 @@
   "newFileLocation": "root",
   "newFileFolderPath": "附件",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "附件",
+  "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "pdfExportSettings": {
