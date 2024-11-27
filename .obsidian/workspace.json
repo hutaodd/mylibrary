@@ -208,8 +208,15 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "c27b40492f07984f",
+  "active": "8dd0425a191f2d19",
   "lastOpenFiles": [
+    "tools/idm.md",
+    "tools/airplane.md",
+    "tools",
+    "tools.md/desktop.ini",
+    "tools.md/idm.md",
+    "tools.md/airplane.md",
+    "tools.md",
     "web渗透/DS_Store.md",
     "web渗透/CTF简介.md",
     "web渗透/2024高校联盟CTF杯的官方WP.md",
@@ -241,21 +248,14 @@
     "web渗透/实验室综合管理与服务平台-登录界面.md",
     "web渗透/响应包源代码查看.md",
     "web渗透/UA注入.md",
-    "web渗透/vim缓存.md",
-    "web渗透/svn泄露.md",
-    "web渗透/MySQL结构.md",
-    "web渗透/Refer注入.md",
-    "web渗透/HG泄露.md",
     "web渗透/assets",
     "web渗透",
     "web渗透.md/assets/desktop.ini",
     "web渗透.md/assets",
     "未命名",
     "javaee",
-    "tools",
     "算法详解/未命名",
     "web渗透/1.html",
-    "web渗透/uploads",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
