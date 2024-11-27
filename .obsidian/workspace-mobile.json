@@ -141,13 +141,13 @@
         }
       },
       {
-        "id": "30a491867328e409",
+        "id": "53c3ecfc25b7da3d",
         "type": "leaf",
         "state": {
           "type": "git-view",
           "state": {},
           "icon": "git-pull-request",
-          "title": "源代码管理"
+          "title": "Source Control"
         }
       }
     ],
@@ -164,11 +164,52 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-git:打开Git源代码管理": false,
       "pkmer:打开 Pkmer 插件市场": false,
-      "vscode-editor:新建代码文件": false
+      "vscode-editor:新建代码文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6104ebe077e9c45c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "web渗透/assets/image-20241110215211-og124ym.png",
+    "web渗透/assets/image-20241112013632-zq86wxd.png",
+    "web渗透/assets/image-20241110214823-sfrmvzx.png",
+    "web渗透/assets/image-20241110225614-jafdz4t.png",
+    "web渗透/assets/image-20241110215337-oowx52z.png",
+    "web渗透/assets/image-20241112131653-uwasz8c.png",
+    "web渗透/assets/image-20241112132805-z577ao6.png",
+    "web渗透/assets/image-20241112030137-b64jqpm.png",
+    "web渗透/assets/image-20241113132655-b56dpxo.png",
+    "web渗透/assets/image-20241112131527-7l2nh1e.png",
+    "web渗透/assets/image-20241112014013-zaj2znh.png",
+    "web渗透/kali安装.md",
+    "web渗透/HG泄露.md",
+    "web渗透/DS_Store.md",
+    "web渗透/反射型xss.md",
+    "web渗透/assets",
+    "web渗透/UA注入.md",
+    "web渗透/Cookie注入.md",
+    "web渗透/git泄露,index.md",
+    "web渗透/2024高校联盟CTF杯的官方WP.md",
+    "web渗透/git泄露,log.md",
+    "web渗透/HTTP基本认证.md",
+    "web渗透/sql注入.md",
+    "web渗透/时间盲注.md",
+    "web渗透/响应包源代码查看.md",
+    "web渗透/比赛形式.md",
+    "web渗透/git泄露,stash.md",
+    "web渗透/CTF简介.md",
+    "web渗透/CTF基础知识——HTTP1.1 请求方法.md",
+    "web渗透/默认口令.md",
+    "web渗透/Refer注入.md",
+    "web渗透/实验室综合管理与服务平台-登录界面.md",
+    "web渗透/svn泄露.md",
+    "web渗透/漏洞发现日志.md",
+    "web渗透/vim缓存.md",
+    "web渗透/报错型sql注入.md",
+    "web渗透/MySQL结构.md",
+    "web渗透",
+    "计算机网络/assets",
+    "计算机网络"
+  ]
 }
