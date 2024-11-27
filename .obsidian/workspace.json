@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "b653d6e6cbd53b3d",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
             "id": "48d05e1fb56975cc",
             "type": "leaf",
             "state": {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +51,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md"
+                "file": "OpenCV,YOLO/目标一 车辆检测.md"
               }
             }
           },
@@ -133,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "OpenCV,YOLO/目标一 车辆检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,10 +220,11 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "48d05e1fb56975cc",
+  "active": "c27b40492f07984f",
   "lastOpenFiles": [
-    "web渗透/openfire.md",
     "web渗透/实验室综合管理与服务平台-登录界面.md",
+    "算法详解/未命名",
+    "web渗透/openfire.md",
     "web渗透/漏洞发现日志.md",
     "算法详解/数组和字符串.md",
     "计算机网络/习题.md",
@@ -258,7 +250,6 @@
     "gitsync.log",
     "附件/同步.exe",
     "未命名/desktop.ini",
-    "计算机网络",
     "1.0,2.0],[3.0,4.0.md",
     "算法详解/如何使用python进行数据预处理.md",
     "什么是计算机网络.md",
@@ -277,7 +268,6 @@
     "计划清单.md",
     "SQL学习手册/图书管理系统.md",
     "SQL学习手册/第四次上机.md",
-    "SQL学习手册/第三次上机.md",
     "杂项/未命名.canvas"
   ]
 }
