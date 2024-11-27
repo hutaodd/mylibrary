@@ -59,5 +59,6 @@
   "Appearance-light@@background-activated-tab-header-light": "transparent",
   "Appearance-light@@color-activated-tab-header-underline-light": "var(--color-accent)",
   "Appearance-light@@workspace-divider-transparent-light": true,
-  "Appearance-dark@@card-layout-open-dark": true
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Mobile@@card-layout-pad-open": true
 }
