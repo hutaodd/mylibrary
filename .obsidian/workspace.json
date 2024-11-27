@@ -11,10 +11,10 @@
             "id": "0fff3f02483f7444",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "pkmer-downloader",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "bookmark",
+              "title": "Pkmer Market"
             }
           }
         ]
@@ -221,7 +221,7 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "72a104cbba17b034",
+  "active": "0fff3f02483f7444",
   "lastOpenFiles": [
     "web渗透/测试.md",
     "web渗透/未命名.md",
