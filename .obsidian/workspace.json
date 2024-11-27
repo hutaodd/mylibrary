@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67f2f189c7ced422",
+        "id": "e0bb45217b52bee8",
         "type": "tabs",
         "children": [
           {
-            "id": "c27b40492f07984f",
+            "id": "f105129ce2ad211c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web渗透/git泄露,index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
             }
           }
         ]
@@ -38,9 +36,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "web渗透/git泄露,index.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -49,13 +47,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "[\"date\"]",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -71,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -88,7 +92,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           }
         ]
@@ -102,60 +108,55 @@
     "type": "split",
     "children": [
       {
-        "id": "1feac0afa31426ab",
+        "id": "ed1bfacfef812ba8",
         "type": "tabs",
-        "dimension": 41.37931034482759,
         "children": [
           {
-            "id": "ce57dc2ba3c6bcaa",
+            "id": "718e9114e211a1a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web渗透/git泄露,index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
-            "id": "84ed1a52737c5dde",
+            "id": "754f551a52314381",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web渗透/git泄露,index.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
-            "id": "6d88374e3c7bf4fb",
+            "id": "81cc463de08bfa11",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
-              }
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
-            "id": "0bdfa69512e918c6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bbb3b858035a4dcb",
+            "id": "73d7247b3b93fa79",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,64 +164,98 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "72a104cbba17b034",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
-        "id": "e540bd41f278e8c3",
+        "id": "37d3d18f62be6e93",
         "type": "tabs",
-        "dimension": 58.62068965517241,
         "children": [
           {
-            "id": "a6bfc4b039a9934a",
+            "id": "63d3154163965748",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "surfing:surfing-bookmark-manager": false,
-      "pkmer:Open Pkmer Market": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-git-sync:Git同步": false
+      "graph:查看关系图谱": false,
+      "i18n:I18N": false,
+      "pkmer:打开 Pkmer 插件市场": false,
+      "vscode-editor:新建代码文件": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "c27b40492f07984f",
+  "active": "f105129ce2ad211c",
   "lastOpenFiles": [
+    "web渗透/实验室综合管理与服务平台-登录界面.md",
+    "web渗透/DS_Store.md",
+    "web渗透/git泄露,log.md",
+    "web渗透/MySQL结构.md",
+    "web渗透/Refer注入.md",
+    "web渗透/sql注入.md",
+    "计算机网络/习题.md",
+    "web渗透/vim缓存.md",
+    "Pasted image 20241014015841.png.md",
+    "View JSON API.md",
+    "web渗透/默认口令.md",
+    "6.md",
+    "web渗透/报错型sql注入.md",
+    "web渗透/比赛内容.md",
+    "2.md",
+    "3.md",
+    "计算机网络/assets/desktop.ini",
+    "计算机网络/assets/Pasted image 20241128003157.png",
+    "计算机网络/assets",
+    "计算机网络/Pasted image 20241128003032.png",
+    "OpenCV,YOLO/目标一 车辆检测.md",
+    "算法详解/数组和字符串.md",
+    "OpenCV,YOLO/python与opencv配置安装.md",
     "tools/idm.md",
-    "tools/airplane.md",
+    "web渗透/Cookie注入.md",
+    "web渗透/整数型SQL注入.md",
+    "202411272308.md",
+    "未命名.md",
+    "web渗透/比赛形式.md",
+    "web渗透/漏洞发现日志.md",
     "tools",
     "tools.md/desktop.ini",
-    "tools.md/idm.md",
-    "tools.md/airplane.md",
-    "tools.md",
-    "web渗透/DS_Store.md",
-    "web渗透/CTF简介.md",
-    "web渗透/2024高校联盟CTF杯的官方WP.md",
-    "OpenCV,YOLO/目标一 车辆检测.md",
     "web渗透/assets/image-20241112131653-uwasz8c.png",
     "web渗透/assets/image-20241113132655-b56dpxo.png",
     "web渗透/assets/image-20241112132805-z577ao6.png",
@@ -229,33 +264,12 @@
     "web渗透/assets/image-20241112030137-b64jqpm.png",
     "web渗透/assets/image-20241112013659-0o5lcuj.png",
     "web渗透/assets/image-20241110225614-jafdz4t.png",
-    "web渗透/assets/image-20241112013632-zq86wxd.png",
-    "web渗透/assets/image-20241110215337-oowx52z.png",
-    "web渗透/默认口令.md",
-    "web渗透/过滤空格.md",
-    "web渗透/题目类型.md",
-    "web渗透/比赛内容.md",
-    "web渗透/漏洞发现日志.md",
-    "web渗透/比赛形式.md",
-    "web渗透/时间盲注.md",
-    "web渗透/整数型SQL注入.md",
-    "web渗透/报错型sql注入.md",
-    "web渗透/弱口令.md",
-    "web渗透/布尔盲注.md",
-    "web渗透/工具下载.md",
-    "web渗透/反射型xss.md",
-    "web渗透/sql注入.md",
-    "web渗透/实验室综合管理与服务平台-登录界面.md",
-    "web渗透/响应包源代码查看.md",
-    "web渗透/UA注入.md",
     "web渗透/assets",
     "web渗透",
     "web渗透.md/assets/desktop.ini",
     "web渗透.md/assets",
     "未命名",
     "javaee",
-    "算法详解/未命名",
-    "web渗透/1.html",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]

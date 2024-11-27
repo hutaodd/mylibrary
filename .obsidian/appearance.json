@@ -2,11 +2,11 @@
   "accentColor": "",
   "translucency": false,
   "interfaceFontFamily": "Aa偷吃可爱长大的",
-  "cssTheme": "Typora-Vue",
-  "theme": "moonstone",
+  "cssTheme": "Border",
+  "theme": "obsidian",
   "textFontFamily": "Aa偷吃可爱长大的",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 13,
+  "baseFontSize": 14,
   "nativeMenus": false,
   "baseFontSizeAction": true
 }

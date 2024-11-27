@@ -4,7 +4,7 @@ date: 2024-11-15T20:06:19Z
 lastmod: 2024-11-15T20:11:13Z
 ---
 
-# 报错型sql注入
+# 报错型[sql注入](sql注入.md)
 
 ```shell
 Parameter: id (GET)

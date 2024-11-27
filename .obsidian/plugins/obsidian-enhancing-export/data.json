@@ -1,15 +1,13 @@
 {
   "items": [
     {
-      "name": "Markdown",
-      "arguments": "-f ${fromFormat} --resource-path=\"F:/obsidianlibrary/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/markdown.lua\" -s -o \"${outputPath}\" -t commonmark_x-attributes"
+      "name": "Markdown"
     },
     {
       "name": "Markdown (Hugo)"
     },
     {
-      "name": "Html",
-      "arguments": "-f ${fromFormat} --resource-path=\"F:/obsidianlibrary/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/math_block.lua\" --embed-resources --standalone --metadata title=\"${currentFileName}\" -s -o \"${outputPath}\" -t html"
+      "name": "Html"
     },
     {
       "name": "TextBundle"
@@ -18,12 +16,10 @@
       "name": "Typst"
     },
     {
-      "name": "PDF",
-      "arguments": "-f ${fromFormat} --resource-path=\"F:/obsidianlibrary/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/pdf.lua\" ${ options.textemplate ? `--resource-path=\"${pluginDir}/textemplate\" --template=\"${options.textemplate}\"` : ` ` } -s -o \"${outputPath}\" -t pdf"
+      "name": "PDF"
     },
     {
-      "name": "Word (.docx)",
-      "arguments": "-f ${fromFormat} --resource-path=\"F:/OneDrive - MSFT/薛谔的obsidian库/image\" --resource-path=\"${attachmentFolderPath}\" -s -o \"${outputPath}\" -t docx"
+      "name": "Word (.docx)"
     },
     {
       "name": "OpenOffice"
@@ -53,13 +49,17 @@
       "name": "Bibliography"
     }
   ],
+  "pandocPath": {
+    "win32": "C:\\Program Files\\Pandoc\\pandoc.exe"
+  },
   "defaultExportDirectoryMode": "Auto",
-  "openExportedFile": true,
+  "openExportedFile": false,
   "env": {},
   "showExportProgressBar": true,
+  "openExportedFileLocation": false,
+  "lastEditName": "Word (.docx)",
   "lastExportDirectory": {
-    "win32": "C:\\Users\\xuee\\Desktop"
+    "win32": "F:\\"
   },
-  "lastExportType": "Markdown",
-  "lastEditName": "PDF"
+  "lastExportType": "Word (.docx)"
 }

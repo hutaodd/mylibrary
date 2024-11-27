@@ -1,4 +1,6 @@
 [
   "calendar",
-  "sample-plugin"
+  "sample-plugin",
+  "lazy-plugins",
+  "obsidian-git"
 ]

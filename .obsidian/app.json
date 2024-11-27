@@ -1,11 +1,11 @@
 {
   "promptDelete": false,
-  "vimMode": false,
-  "readableLineLength": true,
-  "newFileLocation": "root",
+  "vimMode": true,
+  "readableLineLength": false,
+  "newFileLocation": "current",
   "newFileFolderPath": "附件",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./assets",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "pdfExportSettings": {
@@ -15,5 +15,7 @@
     "margin": "1",
     "downscalePercent": 80
   },
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false
 }
