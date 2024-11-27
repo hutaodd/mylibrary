@@ -215,7 +215,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "graph:查看关系图谱": false,
-      "obsidian-git:打开Git源代码管理": false
+      "obsidian-git:打开Git源代码管理": false,
+      "i18n:I18N": false,
+      "pkmer:打开 Pkmer 插件市场": false,
+      "vscode-editor:新建代码文件": false
     }
   },
   "active": "72a104cbba17b034",
