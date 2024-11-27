@@ -224,9 +224,9 @@
       "zk-prefixer:创建时间戳笔记": false,
       "graph:查看关系图谱": false,
       "i18n:I18N": false,
-      "obsidian-git:打开Git源代码管理": false,
       "pkmer:打开 Pkmer 插件市场": false,
-      "vscode-editor:新建代码文件": false
+      "vscode-editor:新建代码文件": false,
+      "obsidian-git:打开Git源代码管理": false
     }
   },
   "active": "590b7e4e40f37050",
