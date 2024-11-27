@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48d05e1fb56975cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web渗透/实验室综合管理与服务平台-登录界面.md",
+                "file": "web渗透/git泄露,index.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +39,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md"
+                "file": "web渗透/git泄露,index.md"
               }
             }
           },
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "web渗透/git泄露,index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCV,YOLO/目标一 车辆检测.md",
+                "file": "web渗透/git泄露,index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,55 +208,55 @@
       "obsidian-git-sync:Git同步": false
     }
   },
-  "active": "8dd0425a191f2d19",
+  "active": "c27b40492f07984f",
   "lastOpenFiles": [
+    "web渗透/DS_Store.md",
+    "web渗透/CTF简介.md",
+    "web渗透/2024高校联盟CTF杯的官方WP.md",
+    "OpenCV,YOLO/目标一 车辆检测.md",
+    "web渗透/assets/image-20241112131653-uwasz8c.png",
+    "web渗透/assets/image-20241113132655-b56dpxo.png",
+    "web渗透/assets/image-20241112132805-z577ao6.png",
+    "web渗透/assets/image-20241112131527-7l2nh1e.png",
+    "web渗透/assets/image-20241112014013-zaj2znh.png",
+    "web渗透/assets/image-20241112030137-b64jqpm.png",
+    "web渗透/assets/image-20241112013659-0o5lcuj.png",
+    "web渗透/assets/image-20241110225614-jafdz4t.png",
+    "web渗透/assets/image-20241112013632-zq86wxd.png",
+    "web渗透/assets/image-20241110215337-oowx52z.png",
+    "web渗透/默认口令.md",
+    "web渗透/过滤空格.md",
+    "web渗透/题目类型.md",
+    "web渗透/比赛内容.md",
+    "web渗透/漏洞发现日志.md",
+    "web渗透/比赛形式.md",
+    "web渗透/时间盲注.md",
+    "web渗透/整数型SQL注入.md",
+    "web渗透/报错型sql注入.md",
+    "web渗透/弱口令.md",
+    "web渗透/布尔盲注.md",
+    "web渗透/工具下载.md",
+    "web渗透/反射型xss.md",
+    "web渗透/sql注入.md",
+    "web渗透/实验室综合管理与服务平台-登录界面.md",
+    "web渗透/响应包源代码查看.md",
+    "web渗透/UA注入.md",
+    "web渗透/vim缓存.md",
+    "web渗透/svn泄露.md",
+    "web渗透/MySQL结构.md",
+    "web渗透/Refer注入.md",
+    "web渗透/HG泄露.md",
+    "web渗透/assets",
+    "web渗透",
+    "web渗透.md/assets/desktop.ini",
+    "web渗透.md/assets",
     "未命名",
     "javaee",
     "tools",
-    "web渗透/实验室综合管理与服务平台-登录界面.md",
     "算法详解/未命名",
-    "web渗透/openfire.md",
-    "web渗透/漏洞发现日志.md",
-    "算法详解/数组和字符串.md",
-    "计算机网络/习题.md",
-    "OpenCV,YOLO/目标一 车辆检测.md",
-    "OpenCV,YOLO/python与opencv配置安装.md",
     "web渗透/1.html",
     "web渗透/uploads",
-    "web渗透/index.py",
-    "web渗透/index.html",
-    "web渗透/更多操作 用户名tysys指定建立连接时使用的用户名 连接地址jdbcoraclethin@192.md",
-    "web渗透/Untitled.loom",
-    "附件/Pasted image 20241027230527.png",
-    "附件/Pasted image 20241027225607.png",
-    "附件/Pasted image 20241027225405.png",
-    "附件/Pasted image 20241027224732.png",
-    "附件/Pasted image 20241027224206.png",
-    "附件/Pasted image 20241027224050.png",
-    "附件/Pasted image 20241027223946.png",
-    "附件/Pasted image 20241027223754.png",
-    "附件/Pasted image 20241027223611.png",
-    "附件/Pasted image 20241027222958.png",
-    "附件/同步.exe",
-    "gitsync.log",
-    "1.0,2.0],[3.0,4.0.md",
-    "算法详解/如何使用python进行数据预处理.md",
-    "什么是计算机网络.md",
-    "mew.md",
-    "计算机网络/未命名看板.md",
-    "计算机.md",
-    "米家IOT/资料.md",
-    "考研规划/考试科目参考-西工大.md",
-    "大创/心率、血氧、姿态、体温检测手表的设计方案.md",
-    "杂项/JetBrains Mono 教程.md",
-    "杂项/esp32开发记录.md",
-    "杂项/我的vscode美化指南.md",
     "杂项/未命名 1.canvas",
-    "传智杯程序设计/程序设计赛道往届赛题.md",
-    "Java学习手册/学习笔记.md",
-    "计划清单.md",
-    "SQL学习手册/图书管理系统.md",
-    "SQL学习手册/第四次上机.md",
     "杂项/未命名.canvas"
   ]
 }
