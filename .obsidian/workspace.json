@@ -11,10 +11,15 @@
             "id": "a23e69545f658b4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "web渗透/vim缓存.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "vim缓存"
             }
           }
         ]
@@ -36,9 +41,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "web渗透/vim缓存.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "vim缓存 的大纲"
             }
           },
           {
