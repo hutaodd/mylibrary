@@ -184,7 +184,7 @@
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
-              "title": "源代码管理"
+              "title": "Source Control"
             }
           }
         ],
@@ -223,16 +223,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "graph:查看关系图谱": false,
-      "i18n:I18N": false,
       "pkmer:打开 Pkmer 插件市场": false,
       "vscode-editor:新建代码文件": false,
-      "obsidian-git:打开Git源代码管理": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "590b7e4e40f37050",
   "lastOpenFiles": [
-    "web渗透/CTF基础知识——HTTP1.1 请求方法.md",
+    "web渗透/Cookie注入.md",
     "计算机网络/习题.md",
+    "web渗透/CTF基础知识——HTTP1.1 请求方法.md",
     "web渗透/2024高校联盟CTF杯的官方WP.md",
     "web渗透/vim缓存.md",
     "web渗透/测试.md",
@@ -259,7 +259,6 @@
     "算法详解/数组和字符串.md",
     "OpenCV,YOLO/python与opencv配置安装.md",
     "tools/idm.md",
-    "web渗透/Cookie注入.md",
     "web渗透/整数型SQL注入.md",
     "tools",
     "tools.md/desktop.ini",
