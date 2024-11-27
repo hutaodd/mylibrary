@@ -25,6 +25,9 @@
       },
       "obsidian-enhancing-export": {
         "startupType": "short"
+      },
+      "obsidian-git": {
+        "startupType": "short"
       }
     }
   }

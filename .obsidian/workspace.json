@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0bb45217b52bee8",
+        "id": "6612aad592d92622",
         "type": "tabs",
         "children": [
           {
-            "id": "f105129ce2ad211c",
+            "id": "0fff3f02483f7444",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -215,14 +215,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "graph:查看关系图谱": false,
-      "i18n:I18N": false,
-      "pkmer:打开 Pkmer 插件市场": false,
-      "vscode-editor:新建代码文件": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "f105129ce2ad211c",
+  "active": "72a104cbba17b034",
   "lastOpenFiles": [
     "web渗透/实验室综合管理与服务平台-登录界面.md",
     "web渗透/DS_Store.md",
