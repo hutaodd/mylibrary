@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "vim缓存"
             }
+          },
+          {
+            "id": "5d48ee14da2cf35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web渗透/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,10 +58,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web渗透/vim缓存.md"
+                "file": "web渗透/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "vim缓存 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -184,7 +200,7 @@
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
-              "title": "源代码管理"
+              "title": "Source Control"
             }
           }
         ],
@@ -225,14 +241,15 @@
       "graph:查看关系图谱": false,
       "i18n:I18N": false,
       "pkmer:打开 Pkmer 插件市场": false,
-      "vscode-editor:新建代码文件": false,
-      "obsidian-git:打开Git源代码管理": false
+      "obsidian-git:Open Git source control": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "590b7e4e40f37050",
+  "active": "5d48ee14da2cf35d",
   "lastOpenFiles": [
-    "web渗透/测试.md",
+    "web渗透/vim缓存.md",
     "web渗透/未命名.md",
+    "web渗透/测试.md",
     "web渗透/实验室综合管理与服务平台-登录界面.md",
     "web渗透/DS_Store.md",
     "web渗透/git泄露,log.md",
@@ -240,7 +257,6 @@
     "web渗透/Refer注入.md",
     "web渗透/sql注入.md",
     "计算机网络/习题.md",
-    "web渗透/vim缓存.md",
     "Pasted image 20241014015841.png.md",
     "View JSON API.md",
     "web渗透/默认口令.md",
