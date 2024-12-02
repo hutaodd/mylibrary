@@ -34,6 +34,9 @@
       },
       "virtual-linker": {
         "startupType": "short"
+      },
+      "github-sync": {
+        "startupType": "short"
       }
     }
   }

@@ -4686,7 +4686,7 @@ var DEFAULT_SETTINGS = {
 };
 var GHSyncPlugin = class extends import_obsidian.Plugin {
   async SyncNotes() {
-    new import_obsidian.Notice("同步到 GitHub 远程");
+    new import_obsidian.Notice("Syncing to GitHub remote");
     const remote = this.settings.remoteURL;
     simpleGitOptions = {
       //@ts-ignore
@@ -4699,7 +4699,7 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
     let os = require("os");
     let hostname = os.hostname();
     let statusResult = await git.status().catch((e) => {
-      new import_obsidian.Notice("仓库不是Git仓库，或者找不到Git二进制文件。", 1e4);
+      new import_obsidian.Notice("Vault is not a Git repo or git binary cannot be found.", 1e4);
       return;
     });
     let clean = statusResult.isClean();
@@ -4713,7 +4713,7 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
         return;
       }
     } else {
-      new import_obsidian.Notice("清除分支");
+      new import_obsidian.Notice("Working branch clean");
     }
     try {
       await git.removeRemote("origin").catch((e) => {
@@ -4729,14 +4729,14 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
     try {
       await git.fetch();
     } catch (e) {
-      new import_obsidian.Notice(e + "\nGitHub Sync: 无效的远程地址.", 1e4);
+      new import_obsidian.Notice(e + "\nGitHub Sync: Invalid remote URL.", 1e4);
       return;
     }
-    new import_obsidian.Notice("GitHub Sync: 成功设置远端源地址");
+    new import_obsidian.Notice("GitHub Sync: Successfully set remote origin url");
     try {
       await git.pull("origin", "main", { "--no-rebase": null }, (err, update) => {
         if (update) {
-          new import_obsidian.Notice("GitHub Sync: 拉取" + update.summary.changes + " 变更");
+          new import_obsidian.Notice("GitHub Sync: Pulled " + update.summary.changes + " changes");
         }
       });
     } catch (e) {
@@ -4758,7 +4758,7 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
     if (!clean) {
       try {
         git.push("origin", "main", ["-u"]);
-        new import_obsidian.Notice("GitHub Sync: 提交 " + msg);
+        new import_obsidian.Notice("GitHub Sync: Pushed on " + msg);
       } catch (e) {
         new import_obsidian.Notice(e, 1e4);
       }
@@ -4785,7 +4785,7 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
           (0, import_set_interval_async.setIntervalAsync)(async () => {
             await this.SyncNotes();
           }, interval * 60 * 1e3);
-          new import_obsidian.Notice("已开启自动同步");
+          new import_obsidian.Notice("Auto sync enabled");
         } catch (e) {
         }
       }
@@ -4805,10 +4805,10 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
         if (this.settings.isSyncOnLoad == true) {
           this.SyncNotes();
         } else {
-          new import_obsidian.Notice("GitHub Sync: " + statusUponOpening.behind + " 远程提交。\n点击GitHub功能区图标同步。");
+          new import_obsidian.Notice("GitHub Sync: " + statusUponOpening.behind + " commits behind remote.\nClick the GitHub ribbon icon to sync.");
         }
       } else {
-        new import_obsidian.Notice("GitHub Sync: 同步到云端");
+        new import_obsidian.Notice("GitHub Sync: up to date with remote.");
       }
     } catch (e) {
     }
@@ -4842,15 +4842,15 @@ var GHSyncSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.settings.remoteURL = value;
       await this.plugin.saveSettings();
     }).inputEl.addClass("my-plugin-setting-text"));
-    new import_obsidian.Setting(containerEl).setName("[OPTIONAL] git binary location").setDesc("如果在您的系统PATH中找不到git，那么在这里提供它的位置").addText((text) => text.setPlaceholder("").setValue(this.plugin.settings.gitLocation).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("[OPTIONAL] git binary location").setDesc("If git is not findable via your system PATH, then provide its location here").addText((text) => text.setPlaceholder("").setValue(this.plugin.settings.gitLocation).onChange(async (value) => {
       this.plugin.settings.gitLocation = value;
       await this.plugin.saveSettings();
     }).inputEl.addClass("my-plugin-setting-text2"));
-    new import_obsidian.Setting(containerEl).setName("[OPTIONAL] Auto sync on startup").setDesc("如果有未同步的更改，则在启动obsidian时自动同步").addToggle((toggle) => toggle.setValue(this.plugin.settings.isSyncOnLoad).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("[OPTIONAL] Auto sync on startup").setDesc("Automatically sync when you start obsidian if there are unsynced changes").addToggle((toggle) => toggle.setValue(this.plugin.settings.isSyncOnLoad).onChange(async (value) => {
       this.plugin.settings.isSyncOnLoad = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("[OPTIONAL] Auto sync at interval").setDesc("设置一个正整数分钟间隔，之后保险库将自动同步。如果此字段为空或不是正整数，则禁用自动同步。重启Obsidan生效。").addText((text) => text.setValue(String(this.plugin.settings.syncinterval)).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("[OPTIONAL] Auto sync at interval").setDesc("Set a positive integer minute interval after which your vault is synced automatically. Auto sync is disabled if this field is left empty or not a positive integer. Restart Obsidan to take effect.").addText((text) => text.setValue(String(this.plugin.settings.syncinterval)).onChange(async (value) => {
       this.plugin.settings.syncinterval = Number(value);
       await this.plugin.saveSettings();
     }));
