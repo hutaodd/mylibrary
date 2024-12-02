@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f006cf06021e3b5",
+        "id": "bbfc4427b735bc15",
         "type": "tabs",
         "children": [
           {
-            "id": "877430d1abb771c6",
+            "id": "7609146ea731a8c2",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -213,8 +213,9 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "877430d1abb771c6",
+  "active": "7609146ea731a8c2",
   "lastOpenFiles": [
+    "力扣题解/desktop.ini",
     "力扣题解/21. 合并两个有序链表.md",
     "力扣题解/这是个测试文件.md",
     "web渗透/MySQL结构.md",
@@ -245,7 +246,6 @@
     "计算机网络/assets",
     "计算机网络/Pasted image 20241128003032.png",
     "OpenCV,YOLO/目标一 车辆检测.md",
-    "算法详解/数组和字符串.md",
     "tools",
     "tools.md/desktop.ini",
     "web渗透/assets/image-20241112131653-uwasz8c.png",
