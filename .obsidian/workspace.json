@@ -11,10 +11,15 @@
             "id": "7609146ea731a8c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "力扣题解/28. 找出字符串中第一个匹配项的下标.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "28. 找出字符串中第一个匹配项的下标"
             }
           }
         ]
@@ -215,6 +220,7 @@
   },
   "active": "7609146ea731a8c2",
   "lastOpenFiles": [
+    "力扣题解/28. 找出字符串中第一个匹配项的下标.md",
     "力扣题解/desktop.ini",
     "力扣题解/21. 合并两个有序链表.md",
     "力扣题解/这是个测试文件.md",
@@ -260,7 +266,6 @@
     "web渗透",
     "web渗透.md/assets/desktop.ini",
     "web渗透.md/assets",
-    "javaee",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
