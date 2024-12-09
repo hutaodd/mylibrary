@@ -2,5 +2,6 @@
   "calendar",
   "sample-plugin",
   "lazy-plugins",
-  "contribution-graph"
+  "contribution-graph",
+  "dataview"
 ]
