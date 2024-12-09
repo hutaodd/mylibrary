@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "vimMode": true,
+  "vimMode": false,
   "readableLineLength": false,
   "newFileLocation": "current",
   "newFileFolderPath": "附件",
