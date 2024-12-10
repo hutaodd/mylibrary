@@ -41,9 +41,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "web渗透/2024高校联盟CTF杯的官方WP.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2024高校联盟CTF杯的官方WP 的大纲"
             }
           },
           {
@@ -83,8 +85,7 @@
               "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "735f5caea4a955b4",
@@ -218,7 +219,7 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "7609146ea731a8c2",
+  "active": "dea713993cf790b5",
   "lastOpenFiles": [
     "web渗透/整数型SQL注入.md",
     "web渗透/比赛形式.md",
