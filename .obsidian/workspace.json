@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web渗透/2024高校联盟CTF杯的官方WP.md",
+                "file": "力扣题解/21. 合并两个有序链表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024高校联盟CTF杯的官方WP"
+              "title": "21. 合并两个有序链表"
+            }
+          },
+          {
+            "id": "b51be8d7ecd87044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "力扣题解/20. 有效的括号.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20. 有效的括号"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,10 +58,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web渗透/2024高校联盟CTF杯的官方WP.md"
+                "file": "力扣题解/20. 有效的括号.md"
               },
               "icon": "lucide-list",
-              "title": "2024高校联盟CTF杯的官方WP 的大纲"
+              "title": "20. 有效的括号 的大纲"
             }
           },
           {
@@ -219,20 +235,21 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "dea713993cf790b5",
+  "active": "b51be8d7ecd87044",
   "lastOpenFiles": [
+    "力扣题解/21. 合并两个有序链表.md",
+    "力扣题解/20. 有效的括号.md",
+    "web渗透/未命名.md",
+    "web渗透/2024高校联盟CTF杯的官方WP.md",
     "web渗透/整数型SQL注入.md",
     "web渗透/比赛形式.md",
     "web渗透/比赛内容.md",
     "力扣题解/1249. 移除无效的括号.md",
-    "力扣题解/21. 合并两个有序链表.md",
-    "力扣题解/未命名.md",
     "力扣题解/28. 找出字符串中第一个匹配项的下标.md",
     "力扣题解/desktop.ini",
     "力扣题解/这是个测试文件.md",
     "web渗透/MySQL结构.md",
     "web渗透/svn泄露.md",
-    "web渗透/2024高校联盟CTF杯的官方WP.md",
     "web渗透/CTF简介.md",
     "web渗透/未命名 1.md",
     "web渗透/未命名 2.md",
@@ -248,7 +265,6 @@
     "Pasted image 20241014015841.png.md",
     "View JSON API.md",
     "web渗透/默认口令.md",
-    "6.md",
     "计算机网络/assets/desktop.ini",
     "计算机网络/assets/Pasted image 20241128003157.png",
     "计算机网络/assets",
