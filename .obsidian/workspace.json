@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "20. 有效的括号"
             }
+          },
+          {
+            "id": "6c2bb5ff1d04e6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang入门到精通/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,10 +73,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "力扣题解/20. 有效的括号.md"
+                "file": "golang入门到精通/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "20. 有效的括号 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -235,10 +250,12 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "b51be8d7ecd87044",
+  "active": "8dd0425a191f2d19",
   "lastOpenFiles": [
-    "力扣题解/21. 合并两个有序链表.md",
     "力扣题解/20. 有效的括号.md",
+    "golang入门到精通/未命名.md",
+    "golang入门到精通",
+    "力扣题解/21. 合并两个有序链表.md",
     "web渗透/未命名.md",
     "web渗透/2024高校联盟CTF杯的官方WP.md",
     "web渗透/整数型SQL注入.md",
@@ -264,7 +281,6 @@
     "计算机网络/习题.md",
     "Pasted image 20241014015841.png.md",
     "View JSON API.md",
-    "web渗透/默认口令.md",
     "计算机网络/assets/desktop.ini",
     "计算机网络/assets/Pasted image 20241128003157.png",
     "计算机网络/assets",
@@ -282,7 +298,6 @@
     "web渗透/assets",
     "web渗透",
     "web渗透.md/assets/desktop.ini",
-    "web渗透.md/assets",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
