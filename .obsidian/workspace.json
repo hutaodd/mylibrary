@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang入门到精通/未命名.md",
+                "file": "golang入门到精通/Golang安装.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Golang安装"
             }
           }
         ],
@@ -73,10 +73,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang入门到精通/未命名.md"
+                "file": "golang入门到精通/Golang安装.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Golang安装 的大纲"
             }
           },
           {
@@ -250,10 +250,10 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "8dd0425a191f2d19",
+  "active": "6c2bb5ff1d04e6e6",
   "lastOpenFiles": [
     "力扣题解/20. 有效的括号.md",
-    "golang入门到精通/未命名.md",
+    "golang入门到精通/Golang安装.md",
     "golang入门到精通",
     "力扣题解/21. 合并两个有序链表.md",
     "web渗透/未命名.md",
