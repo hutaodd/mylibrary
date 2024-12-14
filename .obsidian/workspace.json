@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEXO管理系统/HEXO管理系统.md",
+                "file": "力扣题解/1249. 移除无效的括号.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HEXO管理系统"
+              "title": "1249. 移除无效的括号"
             }
           }
         ],
@@ -253,6 +253,9 @@
   },
   "active": "6c2bb5ff1d04e6e6",
   "lastOpenFiles": [
+    "web渗透/CTF简介.md",
+    "HEXO管理系统/US.KG域名.md",
+    "HEXO管理系统/HEXO管理系统.md",
     "计算机网络/习题.md",
     "web渗透/默认口令.md",
     "web渗透/过滤空格.md",
@@ -276,9 +279,6 @@
     "web渗透/kali安装.md",
     "web渗透/HTTP基本认证.md",
     "web渗透/HG泄露.md",
-    "web渗透/git泄露,index.md",
-    "web渗透/DS_Store.md",
-    "web渗透/Cookie注入.md",
     "HEXO管理系统",
     "assets/Pasted image 20241214164730.png",
     "assets/Pasted image 20241214164718.png",
