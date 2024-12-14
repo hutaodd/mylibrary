@@ -1,6 +1,6 @@
 ---
 created: 2024-12-14T16:42
-updated: 2024-12-14T23:34
+updated: 2024-12-14T23:35
 title: HEXO管理系统
 ---
 # 同步
@@ -16,3 +16,4 @@ title: HEXO管理系统
 - obsidian的assets目录
 	- F:\OneDrive - MSFT\薛谔的obsidian库\assets
 ## 解决步骤
+yaml front matter
