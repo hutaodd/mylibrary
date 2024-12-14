@@ -4,6 +4,7 @@ date: 2024-11-10T21:45:02Z
 lastmod: 2024-11-19T00:30:06Z
 created: 2024-11-27T22:18
 updated: 2024-11-27T22:16
+tags: [web渗透]
 ---
 
 # kali安装

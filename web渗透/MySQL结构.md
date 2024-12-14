@@ -11,6 +11,7 @@ updated: 2024-11-27T22:16
 根据网页显示内容输入1进行测试，此题可能存在 SQL 注入。此题与前一题类似，这次使用手工注入。先判断是否存在注入，发现存在注入后检查注入点。判断字段数量，然后检查数据库位置，知道数据库位置后[查看数据库版本](https://so.csdn.net/so/search?q=%E6%9F%A5%E7%9C%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%88%E6%9C%AC&spm=1001.2101.3001.7020)和数据库名。接着查看全部数据库名，并查看这些数据库的表名，最后在 lvlbiqemvj 表中的数据发现此题 flag 。
 
 ```shell
+tags: [web渗透]
 ---
 Parameter: id (GET)
     Type: time-based blind

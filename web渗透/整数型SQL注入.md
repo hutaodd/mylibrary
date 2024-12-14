@@ -143,6 +143,7 @@ sqlmap -m xxx.txt
 sqlmap -r xxx.txt
 ```
 
+tags: [web渗透]
 ---
 
 ### cookie注入

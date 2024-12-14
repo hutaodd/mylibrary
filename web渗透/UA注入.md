@@ -49,6 +49,7 @@ Parameter: User-Agent (User-Agent)
     Type: UNION query
     Title: Generic UNION query (random number) - 2 columns
     Payload: -3044 UNION ALL SELECT CONCAT(0x717a787671,0x436c6f7263544a7473717063674f6742757550596162746662686b566368784f6d79775567594974,0x7170707671),3573-- -
+tags: [web渗透]
 ---
 ```
 

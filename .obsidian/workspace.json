@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEXO管理系统.md",
+                "file": "US.KG域名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HEXO管理系统"
+              "title": "US.KG域名"
             }
           }
         ],
@@ -251,10 +251,10 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "45244199b8da4727",
+  "active": "6c2bb5ff1d04e6e6",
   "lastOpenFiles": [
-    "US.KG域名.md",
     "HEXO管理系统.md",
+    "US.KG域名.md",
     "golang入门到精通/Golang安装.md",
     "assets/Pasted image 20241214164730.png",
     "assets/Pasted image 20241214164718.png",
