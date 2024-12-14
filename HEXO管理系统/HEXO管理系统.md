@@ -2,7 +2,7 @@
 created: 2024-12-14T16:42
 tag: HEXO管理系统
 title: HEXO管理系统
-updated: 2024-12-15T01:15
+updated: 2024-12-15T01:25
 ---
 # 同步
 ## 资源管理
@@ -24,3 +24,6 @@ updated: 2024-12-15T01:15
 复制assets目录
 
 # 头图自动添加功能
+## 获取wallhaven.cc的miku图链接
+
+## 遍历obsidain下文章,如果文章没有cover
