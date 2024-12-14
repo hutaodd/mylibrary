@@ -3,7 +3,7 @@ title: 报错型sql注入
 date: 2024-11-15T20:06:19Z
 lastmod: 2024-11-15T20:11:13Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:07
+updated: 2024-12-14T19:10
 ---
 
 # 报错型[sql注入](sql注入.md)

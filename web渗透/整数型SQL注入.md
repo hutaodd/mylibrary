@@ -3,7 +3,7 @@ title: 整数型SQL注入
 date: 2024-11-12T18:06:06Z
 lastmod: 2024-11-15T20:33:00Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:07
+updated: 2024-12-14T19:10
 ---
 
 # 整数型SQL注入
