@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "US.KG域名.md",
+                "file": "HEXO管理系统.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "US.KG域名"
+              "title": "HEXO管理系统"
             }
           }
         ],
@@ -253,6 +253,7 @@
   },
   "active": "6c2bb5ff1d04e6e6",
   "lastOpenFiles": [
+    "US.KG域名.md",
     "web渗透/比赛形式.md",
     "web渗透/报错型sql注入.md",
     "web渗透/实验室综合管理与服务平台-登录界面.md",
@@ -260,7 +261,6 @@
     "web渗透/默认口令.md",
     "web渗透/漏洞发现日志.md",
     "web渗透/过滤空格.md",
-    "US.KG域名.md",
     "HEXO管理系统.md",
     "web渗透/2024高校联盟CTF杯的官方WP.md",
     "web渗透/CTF简介.md",
