@@ -1,9 +1,7 @@
 ---
 created: 2024-12-14T16:42
-updated: 2024-12-14T19:05
+updated: 2024-12-14T19:07
 title: HEXO管理系统
-tags:
-  - 薛谔的obsidian库
 ---
 # 同步
 ## 资源管理
