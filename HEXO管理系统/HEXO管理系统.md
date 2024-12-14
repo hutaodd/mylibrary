@@ -1,10 +1,11 @@
 ---
 cover: https://w.wallhaven.cc/full/2e/wallhaven-2elvkx.png
 created: 2024-12-14T16:42
+tag: HEXO管理系统
 tags:
   - HEXO管理系统
 title: HEXO管理系统
-updated: 2024-12-15T01:47
+updated: 2024-12-15T01:48
 ---
 
 # 同步
@@ -30,3 +31,4 @@ updated: 2024-12-15T01:47
 ## 获取wallhaven.cc的miku图链接
 
 ## 遍历obsidain下文章,如果文章没有cover,给文章添加cover,值为获取的miku图
+

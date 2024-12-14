@@ -1,9 +1,10 @@
 ---
 cover: https://w.wallhaven.cc/full/r7/wallhaven-r7xymm.png
 created: 2024-12-12T01:44
+tag: "golang\u5165\u95E8\u5230\u7CBE\u901A"
 tags:
-  - golang入门到精通
-title: Golang安装
+- "golang\u5165\u95E8\u5230\u7CBE\u901A"
+title: "Golang\u5B89\u88C5"
 updated: 2024-12-15T01:46
 ---
 
