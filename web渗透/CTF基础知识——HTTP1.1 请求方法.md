@@ -1,13 +1,13 @@
 ---
-cover: https://w.wallhaven.cc/full/rr/wallhaven-rrdex1.jpg
+cover: https://w.wallhaven.cc/full/8x/wallhaven-8x6v6y.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 01:02:22+00:00
 lastmod: 2024-11-12 01:02:29+00:00
-tag: web渗透
+tag: "web\u6E17\u900F"
 tags:
-  - web渗透
-title: CTF基础知识——HTTP1.1 请求方法
-updated: 2024-12-15T01:54
+- "web\u6E17\u900F"
+title: "CTF\u57FA\u7840\u77E5\u8BC6\u2014\u2014HTTP1.1 \u8BF7\u6C42\u65B9\u6CD5"
+updated: 2024-12-15T01:59
 ---
 
 

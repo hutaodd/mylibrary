@@ -3,11 +3,11 @@ cover: https://w.wallhaven.cc/full/8x/wallhaven-8x6v6y.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 01:35:58+00:00
 lastmod: 2024-11-12 01:40:38+00:00
-tag: web渗透
+tag: "web\u6E17\u900F"
 tags:
-  - web渗透
-title: HTTP基本认证
-updated: 2024-12-15T01:54
+- "web\u6E17\u900F"
+title: "HTTP\u57FA\u672C\u8BA4\u8BC1"
+updated: 2024-12-15T01:59
 ---
 
 
