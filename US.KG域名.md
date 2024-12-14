@@ -1,6 +1,6 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T16:46
+updated: 2024-12-14T16:47
 title: 免费域名
 ---
 https://register.us.kg/
@@ -12,4 +12,4 @@ frida.ns.cloudflare.com
 nick.ns.cloudflare.com
 PASSWORD:051122
 
-![](assets%20-%20副本/Pasted%20image%2020241214115320.png)
+![](assets/Pasted%20image%2020241214164718.png)![](assets/Pasted%20image%2020241214164730.png)
