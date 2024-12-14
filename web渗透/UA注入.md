@@ -3,7 +3,7 @@ title: UA注入
 date: 2024-11-23T23:07:37Z
 lastmod: 2024-11-24T00:02:15Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:12
+updated: 2024-12-14T19:14
 ---
 
 # UA注入
@@ -52,6 +52,8 @@ Parameter: User-Agent (User-Agent)
 tags: [web渗透]
 title: UA注入
 title: UA注入
+title: UA注入
+tags: [web渗透]
 ---
 ```
 

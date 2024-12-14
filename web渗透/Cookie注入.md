@@ -3,7 +3,7 @@ title: Cookie注入
 date: 2024-11-23T22:23:01Z
 lastmod: 2024-11-23T22:26:12Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:12
+updated: 2024-12-14T19:14
 ---
 
 # Cookie注入
@@ -25,6 +25,8 @@ Parameter: id (Cookie)
 tags: [web渗透]
 title: Cookie注入
 title: Cookie注入
+title: Cookie注入
+tags: [web渗透]
 ---
 ```
 

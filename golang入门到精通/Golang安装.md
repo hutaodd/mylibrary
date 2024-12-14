@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T01:44
-updated: 2024-12-14T19:12
+updated: 2024-12-14T19:14
 tags:
   - golang入门到精通
 title: Golang安装

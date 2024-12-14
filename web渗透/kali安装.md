@@ -3,7 +3,7 @@ title: kali安装
 date: 2024-11-10T21:45:02Z
 lastmod: 2024-11-19T00:30:06Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:12
+updated: 2024-12-14T19:14
 tags:
   - web渗透
 ---

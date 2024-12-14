@@ -1,8 +1,7 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T19:12
+updated: 2024-12-14T19:14
 title: US.KG域名
-tags: 
 ---
 https://register.us.kg/
 账户:2176891692@qq.com

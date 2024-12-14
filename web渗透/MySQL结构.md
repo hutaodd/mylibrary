@@ -3,7 +3,7 @@ title: MySQL结构
 date: 2024-11-23T18:44:33Z
 lastmod: 2024-11-23T18:50:14Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:12
+updated: 2024-12-14T19:14
 ---
 
 # MySQL结构
@@ -14,6 +14,8 @@ updated: 2024-12-14T19:12
 tags: [web渗透]
 title: MySQL结构
 title: MySQL结构
+title: MySQL结构
+tags: [web渗透]
 ---
 Parameter: id (GET)
     Type: time-based blind
