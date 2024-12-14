@@ -1,11 +1,11 @@
 ---
-cover: https://w.wallhaven.cc/full/zx/wallhaven-zx116g.jpg
 created: 2024-11-27T22:18
 date: 2024-11-24 00:02:16+00:00
 lastmod: 2024-11-24 00:52:58+00:00
-tag: web渗透
+tags:
+  - web渗透
 title: Refer注入
-updated: 2024-12-15T01:48
+updated: 2024-12-15T01:52
 ---
 
 

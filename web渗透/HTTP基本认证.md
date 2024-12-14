@@ -1,11 +1,11 @@
 ---
-cover: https://w.wallhaven.cc/full/y8/wallhaven-y8j3el.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 01:35:58+00:00
 lastmod: 2024-11-12 01:40:38+00:00
-tag: web渗透
+tags:
+  - web渗透
 title: HTTP基本认证
-updated: 2024-12-15T01:48
+updated: 2024-12-15T01:53
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-cover: https://w.wallhaven.cc/full/96/wallhaven-96ljdk.png
 created: 2024-11-27T22:18
 date: 2024-11-26 23:37:47+00:00
 lastmod: 2024-11-27 22:12:09+00:00
-tag: web渗透
+tags:
+  - web渗透
 title: 2024高校联盟CTF杯的官方WP
-updated: 2024-12-15T01:48
+updated: 2024-12-15T01:52
 ---
 
 
