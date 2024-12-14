@@ -5,7 +5,7 @@
   "newFileLocation": "current",
   "newFileFolderPath": "附件",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": ".assets",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "pdfExportSettings": {
@@ -17,5 +17,6 @@
   },
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "newLinkFormat": "relative"
 }

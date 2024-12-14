@@ -1,6 +1,6 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T16:12
+updated: 2024-12-14T16:30
 ---
 https://register.us.kg/
 账户:2176891692@qq.com
@@ -15,7 +15,7 @@ frida.ns.cloudflare.com
 nick.ns.cloudflare.com
 
 单击以复制
-![](Pasted%20image%2020241214115640.png)
+![](Pasted%20image%2020241214163035.png)
 
 ![](Pasted%20image%2020241214115320.png)
 PASSWORD:051122
