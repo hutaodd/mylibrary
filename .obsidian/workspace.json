@@ -61,9 +61,24 @@
               "icon": "bookmark",
               "title": "Pkmer Market"
             }
+          },
+          {
+            "id": "d80e517e3424a3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "力扣题解/21. 合并两个有序链表.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21. 合并两个有序链表"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,10 +98,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang入门到精通/Golang安装.md"
+                "file": "力扣题解/21. 合并两个有序链表.md"
               },
               "icon": "lucide-list",
-              "title": "Golang安装 的大纲"
+              "title": "21. 合并两个有序链表 的大纲"
             }
           },
           {
@@ -260,13 +275,13 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "3759f15254f309c9",
+  "active": "d80e517e3424a3b9",
   "lastOpenFiles": [
+    "golang入门到精通/Golang安装.md",
     "US.KG域名.md",
     "assets/Pasted image 20241214115640.png",
     "assets/Pasted image 20241214115320.png",
     "assets",
-    "golang入门到精通/Golang安装.md",
     "未命名",
     "力扣题解/20. 有效的括号.md",
     "golang入门到精通",
