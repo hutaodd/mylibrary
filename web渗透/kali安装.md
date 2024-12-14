@@ -1,11 +1,14 @@
 ---
-title: kali安装
-date: 2024-11-10T21:45:02Z
-lastmod: 2024-11-19T00:30:06Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:16
+date: 2024-11-10 21:45:02+00:00
+lastmod: 2024-11-19 00:30:06+00:00
+tag: web渗透
 tags:
   - web渗透
+title: kali安装
+updated: 2024-12-14T23:56
+---
+---
 ---
 
 # kali安装

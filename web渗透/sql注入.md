@@ -1,8 +1,11 @@
 ---
 created: 2024-11-28T00:15
-updated: 2024-12-14T19:16
+tag: web渗透
 tags:
   - web渗透
 title: sql注入
+updated: 2024-12-14T23:56
+---
+---
 ---
 [整数型SQL注入](整数型SQL注入.md)

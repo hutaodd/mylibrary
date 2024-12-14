@@ -1,11 +1,14 @@
 ---
-title: git泄露,index
-date: 2024-11-12T13:27:28Z
-lastmod: 2024-11-12T13:28:05Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:16
+date: 2024-11-12 13:27:28+00:00
+lastmod: 2024-11-12 13:28:05+00:00
+tag: web渗透
 tags:
   - web渗透
+title: git泄露,index
+updated: 2024-12-14T23:56
+---
+---
 ---
 
 # git泄露,index

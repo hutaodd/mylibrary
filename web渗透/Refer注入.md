@@ -1,9 +1,11 @@
 ---
-title: Refer注入
-date: 2024-11-24T00:02:16Z
-lastmod: 2024-11-24T00:52:58Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:16
+date: 2024-11-24 00:02:16+00:00
+lastmod: 2024-11-24 00:52:58+00:00
+tag: web渗透
+title: Refer注入
+updated: 2024-12-14T23:56
+---
 ---
 
 # Refer注入

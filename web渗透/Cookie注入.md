@@ -1,9 +1,11 @@
 ---
-title: Cookie注入
-date: 2024-11-23T22:23:01Z
-lastmod: 2024-11-23T22:26:12Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:16
+date: 2024-11-23 22:23:01+00:00
+lastmod: 2024-11-23 22:26:12+00:00
+tag: web渗透
+title: Cookie注入
+updated: 2024-12-14T23:56
+---
 ---
 
 # Cookie注入
