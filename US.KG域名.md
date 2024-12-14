@@ -1,11 +1,12 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T11:57
+updated: 2024-12-14T12:17
 ---
 https://register.us.kg/
 账户:2176891692@qq.com
 密码:LIANg0122
-mikufun.us.kg_您的已分配的 Cloudflare 名称服务器：_
+mikufun.us.kg
+_您的已分配的 Cloudflare 名称服务器：_
 
 frida.ns.cloudflare.com
 
