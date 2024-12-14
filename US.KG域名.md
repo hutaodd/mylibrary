@@ -1,6 +1,6 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T12:17
+updated: 2024-12-14T12:18
 ---
 https://register.us.kg/
 账户:2176891692@qq.com
@@ -18,3 +18,4 @@ nick.ns.cloudflare.com
 ![](Pasted%20image%2020241214115640.png)
 
 ![](Pasted%20image%2020241214115320.png)
+PASSWORD:051122
