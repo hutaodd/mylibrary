@@ -1,8 +1,9 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T19:00
+updated: 2024-12-14T19:05
 title: US.KG域名
-tags: 
+tags:
+  - 薛谔的obsidian库
 ---
 https://register.us.kg/
 账户:2176891692@qq.com
