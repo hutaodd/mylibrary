@@ -2,11 +2,8 @@
 created: 2024-11-27T22:18
 date: 2024-11-12 13:27:28+00:00
 lastmod: 2024-11-12 13:28:05+00:00
-tag: web渗透
-tags:
-  - web渗透
 title: git泄露,index
-updated: 2024-12-15T00:19
+updated: 2024-12-15T00:22
 ---
 ---
 ---
