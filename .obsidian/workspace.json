@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"updated\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "插件不再活动"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "735f5caea4a955b4",
@@ -250,7 +251,7 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "6c2bb5ff1d04e6e6",
+  "active": "45244199b8da4727",
   "lastOpenFiles": [
     "US.KG域名.md",
     "HEXO管理系统.md",
