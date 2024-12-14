@@ -26,4 +26,4 @@ updated: 2024-12-15T01:27
 # 头图自动添加功能
 ## 获取wallhaven.cc的miku图链接
 
-## 遍历obsidain下文章,如果文章没有cover,给文章添加cover
+## 遍历obsidain下文章,如果文章没有cover,给文章添加cover,值为获取的miku图
