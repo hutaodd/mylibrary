@@ -3,8 +3,9 @@ title: HTTP基本认证
 date: 2024-11-12T01:35:58Z
 lastmod: 2024-11-12T01:40:38Z
 created: 2024-11-27T22:18
-updated: 2024-11-27T22:16
-tags: [web渗透]
+updated: 2024-12-14T18:59
+tags:
+  - web渗透
 ---
 
 # HTTP基本认证

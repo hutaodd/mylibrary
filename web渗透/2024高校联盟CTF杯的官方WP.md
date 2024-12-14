@@ -3,8 +3,9 @@ title: 2024高校联盟CTF杯的官方WP
 date: 2024-11-26T23:37:47Z
 lastmod: 2024-11-27T22:12:09Z
 created: 2024-11-27T22:18
-updated: 2024-12-03T01:02
-tags: [web渗透]
+updated: 2024-12-14T18:59
+tags:
+  - web渗透
 ---
 
 # 2024高校联盟CTF杯的官方WP

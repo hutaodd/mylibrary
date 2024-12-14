@@ -3,8 +3,9 @@ title: CTF基础知识——HTTP1.1 请求方法
 date: 2024-11-12T01:02:22Z
 lastmod: 2024-11-12T01:02:29Z
 created: 2024-11-27T22:18
-updated: 2024-11-27T22:16
-tags: [web渗透]
+updated: 2024-12-14T18:59
+tags:
+  - web渗透
 ---
 
 # CTF基础知识——HTTP1.1 请求方法

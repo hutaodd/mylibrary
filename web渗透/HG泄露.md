@@ -1,10 +1,11 @@
 ---
-title: HG泄露
 date: 2024-11-12T14:01:43Z
 lastmod: 2024-11-12T14:14:30Z
 created: 2024-11-27T22:18
-updated: 2024-11-27T22:16
-tags: [web渗透]
+updated: 2024-12-14T18:59
+tags:
+  - web渗透
+title: HG泄露
 ---
 
 # HG泄露

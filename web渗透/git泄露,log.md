@@ -3,8 +3,9 @@ title: git泄露,log
 date: 2024-11-12T13:12:51Z
 lastmod: 2024-11-12T13:17:33Z
 created: 2024-11-27T22:18
-updated: 2024-11-27T22:16
-tags: [web渗透]
+updated: 2024-12-14T18:59
+tags:
+  - web渗透
 ---
 
 # git泄露,log
