@@ -1,16 +1,14 @@
 ---
 created: 2024-12-14T16:42
-updated: 2024-12-14T19:16
+updated: 2024-12-14T23:16
 title: HEXO管理系统
 ---
 # 同步
 ## 资源管理
-- 资源保存路径
+- hexo根目录
 	- F:\HEXO\mikufun\themes\anzhiyu\source\assets
-- 资源默认路径
-	- assets/Pasted%20image%2020241214164718.png
-- 需要的路径
-	- assets/Pasted%20image%2020241214163105.png
+- obsidan根目录
+	- 
 ## 解决步骤
 1. 获取obsidian库的路径,和assets资源文件夹的路径
 2. 获取hexo网站的根目录,和主题目录下的source文件夹路径
