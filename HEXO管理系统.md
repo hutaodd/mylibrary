@@ -1,6 +1,6 @@
 ---
 created: 2024-12-14T16:42
-updated: 2024-12-14T17:04
+updated: 2024-12-14T17:09
 title: HEXO管理系统
 ---
 # 同步
@@ -22,4 +22,5 @@ title: HEXO管理系统
 		- 如果已经有了就不加了
 4. 把obsidian下的assets目录覆盖资源保存路径下的assets文件夹
 	- 如果没有目录就是复制到那个目录下
-	
+git仓库
+git remote add mikufun https://github.com/hutaodd/hutaodd.github.io.git
