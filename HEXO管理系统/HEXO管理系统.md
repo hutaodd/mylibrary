@@ -5,7 +5,7 @@ tag: HEXO管理系统
 tags:
   - HEXO管理系统
 title: HEXO管理系统
-updated: 2024-12-15T02:12
+updated: 2024-12-15T03:21
 ---
 
 # 同步
@@ -32,3 +32,5 @@ updated: 2024-12-15T02:12
 
 ## 遍历obsidain下文章,如果文章没有cover,给文章添加cover,值为获取的miku图
 
+# 主题颜色
+主题颜色在F:\HEXO\mikufun\themes\anzhiyu\source\css\var.css里--zhihuyu-them
