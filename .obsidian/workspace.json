@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEXO管理系统/US.KG域名.md",
+                "file": "golang入门到精通/Golang安装.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "US.KG域名"
+              "title": "Golang安装"
             }
           }
         ],
@@ -313,12 +313,12 @@
   },
   "active": "b839a11623e34e2e",
   "lastOpenFiles": [
+    "HEXO管理系统/HEXO管理系统.md",
+    "HEXO管理系统/US.KG域名.md",
     "力扣题解/1249. 移除无效的括号.md",
     "计算机网络/习题.md",
     "测试/HEXO管理系统 1.md",
     "测试/US.KG域名 1.md",
-    "HEXO管理系统/HEXO管理系统.md",
-    "HEXO管理系统/US.KG域名.md",
     "测试/未命名.md",
     "测试/未命名 2.md",
     "测试/未命名 1.md",
