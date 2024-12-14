@@ -1,10 +1,11 @@
 ---
-cover: https://w.wallhaven.cc/full/96/wallhaven-96ljdk.png
+cover: https://w.wallhaven.cc/full/r7/wallhaven-r7xymm.png
 created: 2024-12-12T01:44
 tags:
   - golang入门到精通
 title: Golang安装
-updated: 2024-12-15T01:40
+updated: 2024-12-15T01:42
+---
 ---
 
 开启go modules,命令行执行以下命令：

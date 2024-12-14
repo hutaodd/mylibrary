@@ -1,9 +1,11 @@
 ---
+cover: https://w.wallhaven.cc/full/xl/wallhaven-xleg7l.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 18:06:06+00:00
 tag: web渗透
 title: 整数型SQL注入
-updated: 2024-12-15T01:38
+updated: 2024-12-15T01:41
+---
 ---
 
 
