@@ -2,7 +2,7 @@
 created: 2024-12-12T01:44
 tag: golang入门到精通
 title: Golang安装
-updated: 2024-12-15T00:54
+updated: 2024-12-15T00:55
 ---
 
 开启go modules,命令行执行以下命令：
