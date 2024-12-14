@@ -1,8 +1,9 @@
 ---
+cover: https://w.wallhaven.cc/full/rr/wallhaven-rrdex1.jpg
 created: 2024-12-12T01:44
 tag: golang入门到精通
 title: Golang安装
-updated: 2024-12-15T01:35
+updated: 2024-12-15T01:37
 ---
 
 开启go modules,命令行执行以下命令：

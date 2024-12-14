@@ -1,8 +1,9 @@
 ---
+cover: https://w.wallhaven.cc/full/ox/wallhaven-oxey6p.jpg
 created: 2024-12-14T11:50
 tag: HEXO管理系统
 title: US.KG域名
-updated: 2024-12-15T01:35
+updated: 2024-12-15T01:37
 ---
 
 https://register.us.kg/

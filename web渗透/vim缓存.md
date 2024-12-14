@@ -1,10 +1,11 @@
 ---
+cover: https://w.wallhaven.cc/full/1j/wallhaven-1j951v.jpg
 created: 2024-11-28T05:00
 date: 2024-11-12 02:25:09+00:00
 lastmod: 2024-11-12 02:30:09+00:00
 tag: web渗透
 title: vim缓存
-updated: 2024-12-15T01:35
+updated: 2024-12-15T01:38
 ---
 
 
