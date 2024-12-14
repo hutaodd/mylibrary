@@ -46,7 +46,7 @@
                 "file": "HEXO管理系统/HEXO管理系统.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "HEXO管理系统"

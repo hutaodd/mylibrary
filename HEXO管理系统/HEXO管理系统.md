@@ -2,10 +2,8 @@
 created: 2024-12-14T16:42
 tag: HEXO管理系统
 title: HEXO管理系统
-updated: 2024-12-15T00:46
+updated: 2024-12-15T00:50
 ---
-
-
 
 # 同步
 ## 资源管理
@@ -24,3 +22,4 @@ updated: 2024-12-15T00:46
 
 先把hexo的_post目录F:\HEXO\mikufun\source\_posts下的内容全删了,然后遍历obsidan根目录 F:\OneDrive - MSFT\薛谔的obsidian库下所有markdown文章,复制他们到hexo的_post目录 F:\HEXO\mikufun\source\_posts
 
+复制assets目录
