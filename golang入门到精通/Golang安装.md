@@ -4,9 +4,9 @@ created: 2024-12-12T01:44
 tags:
   - golang入门到精通
 title: Golang安装
-updated: 2024-12-15T01:44
+updated: 2024-12-15T01:46
 ---
----
+
 
 开启go modules,命令行执行以下命令：
 `go env -w GO111MODULE=on`
