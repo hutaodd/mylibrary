@@ -1,7 +1,7 @@
 ---
 created: 2024-12-14T11:50
-updated: 2024-12-14T19:10
-title: US.K
+updated: 2024-12-14T19:12
+title: US.KG域名
 tags: 
 ---
 https://register.us.kg/

