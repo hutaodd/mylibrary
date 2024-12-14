@@ -1,12 +1,12 @@
 ---
 created: 2024-12-14T16:42
-tag: 薛谔的obsidian库
-tags: []
+tags:
+  - sdf
 title: HEXO管理系统
-updated: 2024-12-15T00:06
+updated: 2024-12-15T00:10
 ---
----
----
+
+
 
 # 同步
 ## 资源管理
