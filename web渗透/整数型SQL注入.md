@@ -2,8 +2,8 @@
 cover: https://w.wallhaven.cc/full/xl/wallhaven-xleg7l.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 18:06:06+00:00
-tag: "web\u6E17\u900F"
-title: "\u6574\u6570\u578BSQL\u6CE8\u5165"
+tag: web渗透
+title: 整数型SQL注入
 updated: 2024-12-15T01:59
 ---
 

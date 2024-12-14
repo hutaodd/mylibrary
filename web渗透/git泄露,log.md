@@ -3,8 +3,8 @@ cover: https://w.wallhaven.cc/full/28/wallhaven-285929.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 13:12:51+00:00
 lastmod: 2024-11-12 13:17:33+00:00
-tag: "web\u6E17\u900F"
-title: "git\u6CC4\u9732,log"
+tag: web渗透
+title: git泄露,log
 updated: 2024-12-15T01:59
 ---
 

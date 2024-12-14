@@ -3,8 +3,8 @@ cover: https://w.wallhaven.cc/full/xl/wallhaven-xleg7l.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 00:25:09+00:00
 lastmod: 2024-11-12 00:46:02+00:00
-tag: "web\u6E17\u900F"
-title: "CTF\u7B80\u4ECB"
+tag: web渗透
+title: CTF简介
 updated: 2024-12-15T01:59
 ---
 
