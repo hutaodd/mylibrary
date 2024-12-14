@@ -6,7 +6,7 @@ lastmod: 2024-11-12 01:02:29+00:00
 tags:
   - web渗透
 title: CTF基础知识——HTTP1.1 请求方法
-updated: 2024-12-15T02:04
+updated: 2024-12-15T02:10
 ---
 
 

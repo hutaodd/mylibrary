@@ -6,7 +6,7 @@ lastmod: 2024-11-12 01:40:38+00:00
 tags:
   - web渗透
 title: HTTP基本认证
-updated: 2024-12-15T02:04
+updated: 2024-12-15T02:10
 ---
 
 
