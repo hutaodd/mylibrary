@@ -1,6 +1,6 @@
 ---
 created: 2024-12-14T16:42
-updated: 2024-12-14T23:28
+updated: 2024-12-14T23:30
 title: HEXO管理系统
 ---
 # 同步
@@ -9,9 +9,12 @@ title: HEXO管理系统
 	- F:\HEXO\mikufun
 - hexo的assets目录
 	- F:\HEXO\mikufun\themes\anzhiyu\source\assets
+- hexo的_post目录
+	- 
 - obsidan根目录
 	- F:\OneDrive - MSFT\薛谔的obsidian库
-- obsidian的
+- obsidian的assets目录
+	- F:\OneDrive - MSFT\薛谔的obsidian库\assets
 ## 解决步骤
 1. 获取obsidian库的路径,和assets资源文件夹的路径
 2. 获取hexo网站的根目录,和主题目录下的source文件夹路径
