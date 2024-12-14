@@ -5,7 +5,7 @@
   "newFileLocation": "current",
   "newFileFolderPath": "附件",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": ".assets",
+  "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "pdfExportSettings": {
