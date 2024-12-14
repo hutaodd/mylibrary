@@ -83,13 +83,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "US.KG域名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "US.KG域名"
             }
           }
         ],
@@ -113,10 +113,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "US.KG域名.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "US.KG域名 的大纲"
             }
           },
           {
@@ -292,8 +292,8 @@
   },
   "active": "78ec39b62ca9b231",
   "lastOpenFiles": [
+    "HEXO管理系统.md",
     "US.KG域名.md",
-    "未命名.md",
     "Pasted image 20241214163035.png",
     "assets/Pasted image 20241214163105.png",
     "assets/Pasted image 20241214115320.png",
