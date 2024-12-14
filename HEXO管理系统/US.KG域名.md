@@ -1,8 +1,7 @@
 ---
 created: 2024-12-14T11:50
-tag: HEXO管理系统
 title: US.KG域名
-updated: 2024-12-15T00:15
+updated: 2024-12-15T00:18
 ---
 
 https://register.us.kg/
