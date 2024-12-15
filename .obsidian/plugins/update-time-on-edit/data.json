@@ -39,7 +39,7 @@
     "web渗透/git泄露,index.md": "a11d63fc07c0c380308cbf2ee47e562688ba8bbadd4d18a1f432eaf847beb4b2",
     "web渗透/CTF简介.md": "0d5a70ed70e055e8a8a078cedf9e88b16c2a12c2c1a122f697c4873bed74164d",
     "web渗透/DS_Store.md": "4b4e5e4b48e7732ebc30dbbcc3b1c5b021872ea26bdcdc680640b91894fcb85c",
-    "web渗透/Cookie注入.md": "9a4e02aa5a3bb6c863b69f3ced4e60b11dca8b7c3eb551c433343ed5ac7c4623",
+    "web渗透/Cookie注入.md": "bcb2f6691d34de3b02bf2caf14a7b9a8273987bda750719eb8f701bd66f13ad6",
     "web渗透/CTF基础知识——HTTP1.1 请求方法.md": "7230e3370222963a3cb571e11e41289d8b2a2ae1924007c39b814ca6f1ad68fa",
     "web渗透/2024高校联盟CTF杯的官方WP.md": "96cbf77394458143c605dfa596e918ebefd8014c94a15c89338fe0da5c04884e",
     "力扣题解/28. 找出字符串中第一个匹配项的下标.md": "1ae93ff7bece31e9e1e7256d6d629be05d600cb371808f6232425e5e9d3f4b6e",
@@ -47,7 +47,7 @@
     "力扣题解/20. 有效的括号.md": "5fed241e6fbc2581efaf73fa6a5b2f410da876aa2f760a9941f448fbf79c393f",
     "golang入门到精通/Golang安装.md": "c7bdc428d65c37d95b353c2e478817491eef8f85b5aded0d418c8e6c681aea42",
     "HEXO管理系统/HEXO管理系统.md": "74da333cc8a15856c9d2e4021977f6833172f5aafff280c4318d6a82ce021634",
-    "HEXO管理系统/US.KG域名.md": "ed1cbc676312451bcdd56d31e2def2ba5e3b83dbbf842f672347235f84bb855a",
+    "HEXO管理系统/US.KG域名.md": "6e215c253eee8dda6fbc49caae42fb94996027abb46062813f0d5e4ff009fdad",
     "测试/HEXO管理系统 1.md": "5a6c4970ced738057759687c4b892eea06a47c9b75e44321039cfdb91c20b81e",
     "测试/US.KG域名 1.md": "ad617a7906acd3c912c520a3e0e2b07c82f96384220a99ce23d4638d3ef7d122"
   }
