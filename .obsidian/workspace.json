@@ -326,8 +326,9 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "a298805645526acc",
+  "active": "8dd0425a191f2d19",
   "lastOpenFiles": [
+    "TAURI",
     "HEXO管理系统/US.KG域名.md",
     "web渗透/Cookie注入.md",
     "web渗透/未命名.md",
@@ -353,7 +354,6 @@
     "web渗透/比赛内容.md",
     "web渗透/比赛形式.md",
     "web渗透/漏洞发现日志.md",
-    "web渗透/sql注入.md",
     "assets/Pasted image 20241215150734.png",
     "题解",
     "测试",
