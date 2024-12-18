@@ -3,11 +3,11 @@ cover: https://w.wallhaven.cc/full/13/wallhaven-13lql1.jpg
 created: 2024-11-27T22:18
 date: 2024-11-26 23:37:47+00:00
 lastmod: 2024-11-27 22:12:09+00:00
-tag: "web\u6E17\u900F"
+tag: web渗透
 tags:
-- "web\u6E17\u900F"
-title: "2024\u9AD8\u6821\u8054\u76DFCTF\u676F\u7684\u5B98\u65B9WP"
-updated: 2024-12-15T02:12
+  - web渗透
+title: 2024高校联盟CTF杯的官方WP
+updated: 2024-12-19T03:29
 ---
 
 

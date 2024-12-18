@@ -3,11 +3,11 @@ cover: https://w.wallhaven.cc/full/42/wallhaven-425gy4.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 01:35:58+00:00
 lastmod: 2024-11-12 01:40:38+00:00
-tag: "web\u6E17\u900F"
+tag: web渗透
 tags:
-- "web\u6E17\u900F"
-title: "HTTP\u57FA\u672C\u8BA4\u8BC1"
-updated: 2024-12-15T16:17
+  - web渗透
+title: HTTP基本认证
+updated: 2024-12-19T03:29
 ---
 
 

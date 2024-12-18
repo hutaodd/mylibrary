@@ -3,11 +3,11 @@ cover: https://w.wallhaven.cc/full/x1/wallhaven-x1y6r3.jpg
 created: 2024-11-27T22:18
 date: 2024-11-12 01:02:22+00:00
 lastmod: 2024-11-12 01:02:29+00:00
-tag: "web\u6E17\u900F"
+tag: web渗透
 tags:
-- "web\u6E17\u900F"
-title: "CTF\u57FA\u7840\u77E5\u8BC6\u2014\u2014HTTP1.1 \u8BF7\u6C42\u65B9\u6CD5"
-updated: 2024-12-15T02:12
+  - web渗透
+title: CTF基础知识——HTTP1.1 请求方法
+updated: 2024-12-19T03:29
 ---
 
 

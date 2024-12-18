@@ -1,9 +1,9 @@
 ---
 cover: https://w.wallhaven.cc/full/zx/wallhaven-zx8lyw.jpg
 created: 2024-11-28T00:15
-tag: "web\u6E17\u900F"
-title: "sql\u6CE8\u5165"
-updated: 2024-12-15T16:05
+tag: web渗透
+title: sql注入
+updated: 2024-12-19T03:29
 ---
 
 
