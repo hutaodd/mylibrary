@@ -3,8 +3,8 @@ cover: https://w.wallhaven.cc/full/28/wallhaven-285929.jpg
 created: 2024-11-27T22:18
 date: 2024-11-15 20:06:19+00:00
 lastmod: 2024-11-15 20:11:13+00:00
-tag: web渗透
-title: 报错型sql注入
+tag: "web\u6E17\u900F"
+title: "\u62A5\u9519\u578Bsql\u6CE8\u5165"
 updated: 2024-12-15T16:16
 ---
 

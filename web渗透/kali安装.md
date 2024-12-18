@@ -3,8 +3,8 @@ cover: https://w.wallhaven.cc/full/2e/wallhaven-2eqy9x.jpg
 created: 2024-11-27T22:18
 date: 2024-11-10 21:45:02+00:00
 lastmod: 2024-11-19 00:30:06+00:00
-tag: web渗透
-title: kali安装
+tag: "web\u6E17\u900F"
+title: "kali\u5B89\u88C5"
 updated: 2024-12-15T16:17
 ---
 
