@@ -5,7 +5,7 @@ tag: HEXO管理系统
 tags:
   - HEXO管理系统
 title: US.KG域名
-updated: 2024-12-20T00:15
+updated: 2024-12-20T00:19
 ---
 
 
@@ -19,4 +19,4 @@ nick.ns.cloudflare.com
 PASSWORD:051122
 
 ![](/assets/Pasted%20image%2020241214164718.png)![](/assets/Pasted%20image%2020241214164730.png)
-![](../assets/Pasted%20image%2020241220001514.png)
+![](Pasted%20image%2020241220001923.png)
