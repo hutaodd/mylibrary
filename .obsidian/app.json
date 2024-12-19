@@ -19,5 +19,5 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "newLinkFormat": "relative",
-  "uriCallbacks": true
+  "uriCallbacks": false
 }
