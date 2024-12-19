@@ -37,6 +37,9 @@
       },
       "github-sync": {
         "startupType": "short"
+      },
+      "obsidian-regex-pipeline": {
+        "startupType": "short"
       }
     }
   }
