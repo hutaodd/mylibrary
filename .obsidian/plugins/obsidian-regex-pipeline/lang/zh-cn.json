@@ -1,0 +1,44 @@
+{
+    "manifest": {
+        "translationVersion": 1734625841232,
+        "pluginVersion": "1.4.0"
+    },
+    "description": {
+        "original": "Allows users setup custom regex rules to automatically format notes.",
+        "translation": "Allows users setup custom regex rules to automatically format notes."
+    },
+    "dict": {
+        "Notice(\"Failed to write to index file: \" + r)": "Notice(\"Failed to write to index file: \" + r)",
+        "Notice(\"Failed to write the ruleset file: \" + r)": "Notice(\"Failed to write the ruleset file: \" + r)",
+        "Notice(ruleset + \" not found!\")": "Notice(ruleset + \" not found!\")",
+        "Notice(\"No active Markdown file!\")": "Notice(\"No active Markdown file!\")",
+        "Notice(\"Executed ruleset '\" + ruleset + \"' which contains \" + count + \" regex replacements!\")": "Notice(\"Executed ruleset '\" + ruleset + \"' which contains \" + count + \" regex replacements!\")",
+        "Notice(\"Failed to create the ruleset! Please check if the file already exist.\")": "Notice(\"Failed to create the ruleset! Please check if the file already exist.\")",
+        " log(message, ...optionalParams)": " log(message, ...optionalParams)",
+        ".log(\"[regex-pipeline] \" + message)": ".log(\"[regex-pipeline] \" + message)",
+        ".log('loading')": ".log('loading')",
+        ".log('Simple Callback')": ".log('Simple Callback')",
+        ".log(\"Rulesets: \" + this.pathToRulesets)": ".log(\"Rulesets: \" + this.pathToRulesets)",
+        ".log(\"Index: \" + this.pathToRulesets + this.indexFile)": ".log(\"Index: \" + this.pathToRulesets + this.indexFile)",
+        ".log('unloading')": ".log('unloading')",
+        ".log(this.rules)": ".log(this.rules)",
+        ".log(`setting up ${expectedCommands} commands...`)": ".log(`setting up ${expectedCommands} commands...`)",
+        ".log(`pusing ${r} command...`)": ".log(`pusing ${r} command...`)",
+        ".log(this.quickCommands)": ".log(this.quickCommands)",
+        ".log(\"createRuleset: \" + name)": ".log(\"createRuleset: \" + name)",
+        ".log(\"file existed: \" + path)": ".log(\"file existed: \" + path)",
+        ".log(pos.top)": ".log(pos.top)",
+        ".log(\"\\n\" + ruleMatches[1] + \"\\n↓↓↓↓↓\\n\" + ruleMatches[3])": ".log(\"\\n\" + ruleMatches[1] + \"\\n↓↓↓↓↓\\n\" + ruleMatches[3])",
+        "name: 'Apply Ruleset'": "name: 'Apply Ruleset'",
+        ".setButtonText(\"RELOAD\")": ".setButtonText(\"RELOAD\")",
+        ".setButtonText(\"Apply\")": ".setButtonText(\"Apply\")",
+        ".setButtonText(\"+\")": ".setButtonText(\"+\")",
+        ".setButtonText(\"Save\")": ".setButtonText(\"Save\")",
+        ".setName(\"Quick Rules\")": ".setName(\"Quick Rules\")",
+        ".setName(\"Quick Rule Commands\")": ".setName(\"Quick Rule Commands\")",
+        ".setName(\"Save Rules In Vault\")": ".setName(\"Save Rules In Vault\")",
+        ".setDesc(\"The first N rulesets in your index file will be available in right click menu and as commands.\")": ".setDesc(\"The first N rulesets in your index file will be available in right click menu and as commands.\")",
+        ".setDesc(\"The first N rulesets in your index file will be available as Obsidian commands. If decreasing, the existing commands will not be removed until next reload (You can also manually re-enabled the plugin).\")": ".setDesc(\"The first N rulesets in your index file will be available as Obsidian commands. If decreasing, the existing commands will not be removed until next reload (You can also manually re-enabled the plugin).\")",
+        ".setDesc(\"Reads rulesets from \\\".obsidian/regex-rulesets\\\" when off, \\\"./regex-ruleset\\\" when on (useful if you are user of ObsidianSync). \")": ".setDesc(\"Reads rulesets from \\\".obsidian/regex-rulesets\\\" when off, \\\"./regex-ruleset\\\" when on (useful if you are user of ObsidianSync). \")"
+    }
+}

@@ -18,6 +18,6 @@
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
   "rightToLeft": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "uriCallbacks": false
 }
