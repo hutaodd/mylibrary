@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣题解/69. x 的平方根.md",
+                "file": "HEXO管理系统/US.KG域名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "69. x 的平方根"
+              "title": "US.KG域名"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,8 +246,11 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "e11440ca00187096",
+  "active": "e737db58ae0ddbbf",
   "lastOpenFiles": [
+    "assets/Pasted image 20241219235920.png",
+    "力扣题解/69. x 的平方根.md",
+    "力扣题解/21. 合并两个有序链表.md",
     "HEXO管理系统/US.KG域名.md",
     "assets/Pasted image 20241219235004.png",
     "assets/Pasted image 20241219234951.png",
@@ -259,11 +262,9 @@
     "web渗透/2024高校联盟CTF杯的官方WP.md",
     "assets/Pasted image 20241219221648.png",
     "assets/Pasted image 20241219221516.png",
-    "力扣题解/69. x 的平方根.md",
     "测试/US.KG域名 1.md",
     "测试/HEXO管理系统 1.md",
     "测试",
-    "力扣题解/21. 合并两个有序链表.md",
     "HEXO管理系统/HEXO管理系统.md",
     "TAURI",
     "web渗透/Cookie注入.md",
