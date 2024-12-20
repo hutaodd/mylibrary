@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "201e03c6d3e31a89",
+        "id": "cd7b3e35c56cbc26",
         "type": "tabs",
         "children": [
           {
-            "id": "c278c711f8fd117b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "力扣题解/21. 合并两个有序链表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. 合并两个有序链表"
-            }
-          },
-          {
-            "id": "e737db58ae0ddbbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "力扣题解/21. 合并两个有序链表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. 合并两个有序链表"
-            }
-          },
-          {
-            "id": "03837cc010dd87da",
+            "id": "d52dd88f6beb4a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,19 +21,8 @@
               "icon": "lucide-file",
               "title": "3138. 同位字符串连接的最小长度"
             }
-          },
-          {
-            "id": "e11440ca00187096",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,10 +221,10 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "03837cc010dd87da",
+  "active": "d52dd88f6beb4a8e",
   "lastOpenFiles": [
-    "力扣题解/21. 合并两个有序链表.md",
     "力扣题解/3138. 同位字符串连接的最小长度.md",
+    "力扣题解/21. 合并两个有序链表.md",
     "算法知识图谱.md",
     "HEXO管理系统/US.KG域名.md",
     "assets/Pasted image 20241220003540.png",
