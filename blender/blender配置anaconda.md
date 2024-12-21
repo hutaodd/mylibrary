@@ -1,6 +1,6 @@
 ---
 created: 2024-12-21T21:28
-updated: 2024-12-21T21:41
+updated: 2024-12-21T21:44
 ---
 [提示和技巧 — Blender 2.69.0 - API 文档 --- Tips and Tricks — Blender 2.69.0 - API documentation](https://docs.blender.org/api/blender_python_api_2_69_release/info_tips_and_tricks.html#bundled-python-extensions)
 ## 捆绑的 Python 和扩展¶
@@ -14,5 +14,9 @@ updated: 2024-12-21T21:41
 1. 打开blender的脚本,确认blender的python版本
 	![](assets/Pasted%20image%2020241221214126.png)
 2. 到blender安装目录里把python的文件夹名更改或删除
-![](assets/Pasted%20image%2020241221213652.png)
-3. . 
+	![](assets/Pasted%20image%2020241221213652.png)
+3. 创建conda虚拟环境
+```python
+conda -n blender python=3.11.7
+```
+1. 
