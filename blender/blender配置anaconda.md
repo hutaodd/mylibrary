@@ -1,6 +1,6 @@
 ---
 created: 2024-12-21T21:28
-updated: 2024-12-21T21:59
+updated: 2024-12-21T22:02
 ---
 [提示和技巧 — Blender 2.69.0 - API 文档 --- Tips and Tricks — Blender 2.69.0 - API documentation](https://docs.blender.org/api/blender_python_api_2_69_release/info_tips_and_tricks.html#bundled-python-extensions)
 ## 捆绑的 Python 和扩展¶
@@ -23,6 +23,8 @@ Conda create -n blender python=3.11.7
 4. 链接conda的环境到blender存储python的目录下(要使用管理员启动另一个ancondaprompt)
 ```
 	cd D:\Program Files\Blender Foundation\Blender 4.2\4.2
-	
+	Mklink /j python C:\Users\xuee\.conda\envs\blender
 ```
-1. 
+![](assets/Pasted%20image%2020241221220049.png)
+![](assets/Pasted%20image%2020241221220125.png)
+然后就可以在conda里配置安装blender所使用的包了
