@@ -1,6 +1,8 @@
 ---
 created: 2024-12-21T21:28
-updated: 2024-12-21T22:04
+tag: blender
+title: blender配置anaconda
+updated: 2024-12-30T23:33
 ---
 [提示和技巧 — Blender 2.69.0 - API 文档 --- Tips and Tricks — Blender 2.69.0 - API documentation](https://docs.blender.org/api/blender_python_api_2_69_release/info_tips_and_tricks.html#bundled-python-extensions)
 ## 捆绑的 Python 和扩展¶
