@@ -81,9 +81,24 @@
               "icon": "lucide-file",
               "title": "参考"
             }
+          },
+          {
+            "id": "ff50b2f9b8f2b777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "火币/规律.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "规律"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -277,13 +292,18 @@
       "graph:查看关系图谱": false,
       "github-sync:Sync with Remote": false,
       "i18n:I18N": false,
-      "pkmer:打开 Pkmer 插件市场": false
+      "pkmer:打开 Pkmer 插件市场": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "d5ed793ed79b34e9",
+  "active": "ff50b2f9b8f2b777",
   "lastOpenFiles": [
-    "blender/blender配置mediapipe.md",
+    "assets/Pasted image 20250108034758.png",
     "blender/参考.md",
+    "火币/规律.md",
+    "火币",
+    "blender/blender配置mediapipe.md",
     "blender/blender配置anaconda.md",
     "assets/Pasted image 20241221220125.png",
     "assets/Pasted image 20241221220049.png",
@@ -322,12 +342,9 @@
     "web渗透/MySQL结构.md",
     "web渗透/Refer注入.md",
     "web渗透/UA注入.md",
-    "web渗透/git泄露,index.md",
-    "web渗透/git泄露,log.md",
     "题解",
     "HEXO管理系统",
     "assets",
-    "assets - 副本",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
