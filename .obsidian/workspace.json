@@ -11,24 +11,12 @@
             "id": "d52dd88f6beb4a8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "考研/考研策略.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf"
               },
-              "icon": "lucide-file",
-              "title": "考研策略"
+              "icon": "lucide-file-text",
+              "title": "成都信息工程大学2025年硕士研究生招生专业目录"
             }
           },
           {
@@ -416,6 +404,8 @@
   },
   "active": "d52dd88f6beb4a8e",
   "lastOpenFiles": [
+    "考研/考研策略.md",
+    "考研/~$25-计算机复试-面向对象程序设计（加试）.docx",
     "力扣题解/3138. 同位字符串连接的最小长度.md",
     "算法知识图谱.md",
     "blender/blender配置mediapipe.md",
@@ -423,7 +413,6 @@
     "火币/规律.md",
     "操作系统/总结.md",
     "考研/考研每日任务规划.md",
-    "考研/考研策略.md",
     "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf",
     "考研/2025-计算机复试-算法设计与分析.docx",
     "考研/2025-计算机复试-面向对象程序设计（加试）.docx",
@@ -448,7 +437,6 @@
     "力扣题解/21. 合并两个有序链表.md",
     "HEXO管理系统/US.KG域名.md",
     "新建文件夹/desktop.ini",
-    "新建文件夹",
     "力扣题解/69. x 的平方根.md",
     "golang入门到精通/Golang安装.md",
     "计算机网络/习题.md",
@@ -461,7 +449,6 @@
     "web渗透/DS_Store.md",
     "web渗透/HG泄露.md",
     "web渗透/HTTP基本认证.md",
-    "web渗透/MySQL结构.md",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
