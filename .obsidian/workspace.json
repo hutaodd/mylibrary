@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "力扣题解/3138. 同位字符串连接的最小长度.md",
+                "file": "考研/考研策略.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "3138. 同位字符串连接的最小长度"
+              "title": "考研策略"
             }
           },
           {
@@ -30,8 +39,17 @@
               "state": {
                 "file": "算法知识图谱.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "算法知识图谱"
@@ -60,8 +78,17 @@
               "state": {
                 "file": "blender/blender配置mediapipe.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "blender配置mediapipe"
@@ -75,8 +102,17 @@
               "state": {
                 "file": "blender/参考.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "参考"
@@ -90,8 +126,17 @@
               "state": {
                 "file": "火币/规律.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "规律"
@@ -105,15 +150,71 @@
               "state": {
                 "file": "操作系统/总结.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "总结"
             }
+          },
+          {
+            "id": "b5eee6470715147f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/考研每日任务规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "考研每日任务规划"
+            }
+          },
+          {
+            "id": "84bba72aee21f6b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/考研每日任务规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "考研每日任务规划"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +291,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -312,18 +414,27 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "c93b713de84b43f5",
+  "active": "d52dd88f6beb4a8e",
   "lastOpenFiles": [
-    "操作系统",
+    "力扣题解/3138. 同位字符串连接的最小长度.md",
+    "算法知识图谱.md",
+    "blender/blender配置mediapipe.md",
+    "blender/参考.md",
     "火币/规律.md",
     "操作系统/总结.md",
+    "考研/考研每日任务规划.md",
+    "考研/考研策略.md",
+    "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf",
+    "考研/2025-计算机复试-算法设计与分析.docx",
+    "考研/2025-计算机复试-面向对象程序设计（加试）.docx",
+    "考研/2025-计算机复试-操作系统原理（加试）.docx",
+    "考研",
+    "操作系统",
     "assets/Pasted image 20250108152357.png",
     "assets/Pasted image 20250108152257.png",
     "assets/Pasted image 20250108034928.png",
     "assets/Pasted image 20250108034758.png",
-    "blender/参考.md",
     "火币",
-    "blender/blender配置mediapipe.md",
     "blender/blender配置anaconda.md",
     "assets/Pasted image 20241221220125.png",
     "assets/Pasted image 20241221220049.png",
@@ -333,33 +444,24 @@
     "assets/Pasted image 20241221213652.png",
     "blender.md",
     "blender",
-    "算法知识图谱.md",
     "力扣题解/2545. 根据第 K 场考试的分数排序.md",
-    "力扣题解/3138. 同位字符串连接的最小长度.md",
     "力扣题解/21. 合并两个有序链表.md",
     "HEXO管理系统/US.KG域名.md",
     "新建文件夹/desktop.ini",
     "新建文件夹",
-    "未命名/desktop.ini",
     "力扣题解/69. x 的平方根.md",
     "golang入门到精通/Golang安装.md",
     "计算机网络/习题.md",
     "web渗透/2024高校联盟CTF杯的官方WP.md",
     "测试/US.KG域名 1.md",
     "测试/HEXO管理系统 1.md",
-    "测试",
     "HEXO管理系统/HEXO管理系统.md",
-    "TAURI",
     "web渗透/Cookie注入.md",
     "web渗透/未命名.md",
     "web渗透/DS_Store.md",
     "web渗透/HG泄露.md",
     "web渗透/HTTP基本认证.md",
     "web渗透/MySQL结构.md",
-    "web渗透/Refer注入.md",
-    "题解",
-    "HEXO管理系统",
-    "assets",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
