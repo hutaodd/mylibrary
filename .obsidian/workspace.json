@@ -35,12 +35,24 @@
             "id": "0145ae63b894487f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf"
+                "file": "考研/考研策略.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "成都信息工程大学2025年硕士研究生招生专业目录"
+              "icon": "lucide-file",
+              "title": "考研策略"
             }
           }
         ],
@@ -246,6 +258,7 @@
   },
   "active": "0145ae63b894487f",
   "lastOpenFiles": [
+    "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf",
     "考研/~$25-计算机复试-面向对象程序设计（加试）.docx",
     "考研/~$25-计算机复试-操作系统原理（加试）.docx",
     "考研/~$25-计算机复试-算法设计与分析.docx",
@@ -258,7 +271,6 @@
     "blender/blender配置anaconda.md",
     "算法知识图谱.md",
     "unity/生命周期方法.md",
-    "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf",
     "unity",
     "力扣题解/3138. 同位字符串连接的最小长度.md",
     "考研/2025-计算机复试-算法设计与分析.docx",
