@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "生命周期方法"
             }
+          },
+          {
+            "id": "9529a68b49e0112c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity/Vector3的使用.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vector3的使用"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,9 +256,10 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "63d3154163965748",
+  "active": "9529a68b49e0112c",
   "lastOpenFiles": [
     "unity/生命周期方法.md",
+    "unity/Vector3的使用.md",
     "web渗透/比赛形式.md",
     "考研/考研策略.md",
     "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf",
@@ -278,7 +304,6 @@
     "web渗透/Cookie注入.md",
     "web渗透/未命名.md",
     "web渗透/DS_Store.md",
-    "web渗透/HG泄露.md",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
