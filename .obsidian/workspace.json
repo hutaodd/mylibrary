@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Vector3的使用"
             }
+          },
+          {
+            "id": "712be3cddecdb67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenWRT/openwrt绕校园网检测.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "openwrt绕校园网检测"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,10 +280,12 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "9529a68b49e0112c",
+  "active": "712be3cddecdb67d",
   "lastOpenFiles": [
-    "unity/生命周期方法.md",
     "unity/Vector3的使用.md",
+    "OpenWRT/openwrt绕校园网检测.md",
+    "OpenWRT",
+    "unity/生命周期方法.md",
     "web渗透/比赛形式.md",
     "考研/考研策略.md",
     "考研/成都信息工程大学2025年硕士研究生招生专业目录.pdf",
@@ -279,7 +305,6 @@
     "考研/2025-计算机复试-面向对象程序设计（加试）.docx",
     "考研/2025-计算机复试-操作系统原理（加试）.docx",
     "考研",
-    "操作系统",
     "assets/Pasted image 20250108152357.png",
     "assets/Pasted image 20250108152257.png",
     "assets/Pasted image 20250108034928.png",
@@ -303,7 +328,6 @@
     "HEXO管理系统/HEXO管理系统.md",
     "web渗透/Cookie注入.md",
     "web渗透/未命名.md",
-    "web渗透/DS_Store.md",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
