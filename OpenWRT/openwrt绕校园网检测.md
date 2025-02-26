@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-26T12:17
+updated: 2025-02-26T12:34
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -19,3 +19,6 @@ updated: 2025-02-26T12:17
 #### 内置防火墙组件
 ### 反时间戳检测
 #### 内置NTP服务器
+
+小米路由器
+https://github.com/acecilia/OpenWRTInvasion
