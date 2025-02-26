@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-26T12:40
+updated: 2025-02-26T12:42
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -31,3 +31,6 @@ https://sunbk201public.notion.site/UA3F-Clash-16d60a7b5f0e457a9ee97a3be7cbf557#a
 openwrt官网
 https://openwrt.org/inbox/toh/xiaomi/xiaomi_mi_router_4a_gigabit_edition
 
+ [openwrt.ai](https://openwrt.ai/)在线编译定制专属固件
+
+https://openwrt.ai/?target=ramips%2Fmt7621&id=xiaomi_mi-router-4a-gigabit
