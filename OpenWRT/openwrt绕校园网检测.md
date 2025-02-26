@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-26T12:16
+updated: 2025-02-26T12:17
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -17,3 +17,5 @@ updated: 2025-02-26T12:16
 #### Kmod-iptables-ipot
 ### 反flashcookie检测
 #### 内置防火墙组件
+### 反时间戳检测
+#### 内置NTP服务器
