@@ -337,3 +337,4 @@ ramips/mt7621
 
 
 
+wget http://192.168.1.3/kwrt-02.27.2025-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade.bin
