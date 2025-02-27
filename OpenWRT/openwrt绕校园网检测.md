@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T21:47
+updated: 2025-02-27T21:49
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -337,7 +337,7 @@ ramips/mt7621
 
 telnet 192.168.1.1
 
-wget http://192.168.1.3/kwrt-02.27.2025-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade_2.bin
+wget http://192.168.1.3/mi-router.bin
 
 > breed> wget http://192.168.1.3/kwrt-02.27.2025-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade.bin
 Connecting to 192.168.1.3:80... connected.
@@ -350,12 +350,14 @@ Saving to address 0x80001000
 Transmission completed in 4.3s.
 
 0x80001000
-0xb4024b (11MB)
+0xb4024b (11MB) 0xb0024b 
 0xc00000(12mb)
 
 flash erase 0x180000 0xc00000
 
 flash write 0x180000 0x80001000 0xb4024b
+
+flash write 0x180000 0x80001000 0xb0024b 
 
 boot flash 0x180000
 
