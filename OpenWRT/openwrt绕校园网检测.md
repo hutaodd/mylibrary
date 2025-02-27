@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T19:53
+updated: 2025-02-27T19:56
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -352,6 +352,6 @@ Transmission completed in 4.3s.
 
 0x80001000
 0xb4024b (11MB)
+0xc00000(12mb)
 
-
-flash erase 0x180000 0x600000
+flash erase 0x180000 0xc00000
