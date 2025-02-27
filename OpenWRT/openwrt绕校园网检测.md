@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T15:18
+updated: 2025-02-27T15:26
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -91,3 +91,7 @@ Saving to address 0x80001000
 [========================================================================] 100%
 
 Transmission completed in 4.5s.
+
+
+
+flash write 0x160000 0x80001000 0xc00000
