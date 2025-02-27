@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T19:33
+updated: 2025-02-27T19:48
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -292,3 +292,48 @@ Saving to address 0x80001000
 [========================================================================] 100%
 
 Transmission completed in 2.7s.
+
+
+
+
+
+
+
+
+
+
+
+
+## 定制完成的固件
+
+型号:
+
+Xiaomi Mi Router 4A Gigabit Edition
+
+平台:
+
+ramips/mt7621
+
+版本:
+
+分支: 24.10-SNAPSHOT  
+内核: 6.6.73
+
+生成日期:
+
+2025-02-27 19:46:35
+
+说明:
+
+后台: 10.0.0.1  密码: root
+
+历史版本:
+
+[](https://dl.openwrt.ai/firmware/ramips-mt7621/xiaomi_mi-router-4a-gigabit/)
+
+
+
+
+
+
+
