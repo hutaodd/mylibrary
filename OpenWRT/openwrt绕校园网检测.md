@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T14:16
+updated: 2025-02-27T15:18
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -77,3 +77,17 @@ stok=2f25b590f79c5c4d01bc5951b688710a
 
 小米路由器4A千兆版 开启telnet功能时 连接端口23失败的解决方法
 https://www.ixigua.com/7018941989747950094?wid_try=1
+
+
+
+
+
+breed> wget http://192.168.1.3/kwrt-02.27.2025-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade.bin
+Connecting to 192.168.1.3:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11797067/0xb4024b (11MB) [application/octet-stream]
+Saving to address 0x80001000
+
+[========================================================================] 100%
+
+Transmission completed in 4.5s.
