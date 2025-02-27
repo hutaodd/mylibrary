@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T15:26
+updated: 2025-02-27T16:59
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -95,3 +95,9 @@ Transmission completed in 4.5s.
 
 
 flash write 0x160000 0x80001000 0xc00000
+
+
+
+
+
+无需拆机 只需使用软件 简单易学 视频中软件及固件下载：https://wwa.lanzoui.com/ib7dUpiak5i 补充说明：本方案在小米4A千兆版官方固件版本为2.28.38、2.28.58、2.28.69均成功开启telnet功能。 Padavan固件默认管理地址：192.168.2.1 默认账户密码都是admin 默认WIFI密码1234567890 压缩包内的openwrt固件默认管理地址：192.168.31.1 密码coolxiaomi WiFi密码coolxiaomi
