@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T13:46
+updated: 2025-02-27T14:16
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -46,8 +46,6 @@ https://openwrt.ai/?target=ramips%2Fmt7621&id=xiaomi_mi-router-4a-gigabit
 iptables-nft kmod-ipt-ipopt ipset iptables-mod-conntrack-extra
 
 
-## 定制完成的固件
-
 型号:
 
 Xiaomi Mi Router 4A Gigabit Edition
@@ -63,11 +61,11 @@ ramips/mt7621
 
 生成日期:
 
-2025-02-26 13:50:53
+2025-02-27 14:15:46
 
 说明:
 
-后台: 192.168.1.1  密码: root
+后台: 192.168.1.11  密码: root
 
 
 
