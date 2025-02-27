@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-28T07:55
+updated: 2025-02-28T07:56
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -366,7 +366,6 @@ luci-app-autotimeset luci-app-ttyd kmod-rkp-ipid iptables-mod-filter iptables-mo
 
 
 flash erase 0x180000 0xd00000
-
 flash write 0x180000 0x80001000 0xc0024b 
 
 
