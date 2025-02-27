@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-26T13:58
+updated: 2025-02-27T12:07
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -68,3 +68,5 @@ ramips/mt7621
 说明:
 
 后台: 192.168.1.1  密码: root
+
+stok=99ea43969df1432282390189dd55a57c
