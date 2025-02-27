@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T13:23
+updated: 2025-02-27T13:46
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -75,3 +75,7 @@ ramips/mt7621
 小米路由器4A千兆版是利用 2.28.62 版本固件的一个 Shell 命令注入的漏洞，所以要想刷机成功就必须得降级到这个版本（2.28.62 之后的新版本应该是将这个漏洞修复了，我再次通过 OpenWRTInvasion 没获取到 ssh 登录权，所有刷的时候尽量在 [2.28.62](https://raw.githubusercontent.com/acecilia/OpenWRTInvasion/master/firmwares/stock/miwifi_r4a_firmware_72d65_2.28.62.bin) 这个固件版本下刷机）。
 
 stok=2f25b590f79c5c4d01bc5951b688710a
+
+
+小米路由器4A千兆版 开启telnet功能时 连接端口23失败的解决方法
+https://www.ixigua.com/7018941989747950094?wid_try=1
