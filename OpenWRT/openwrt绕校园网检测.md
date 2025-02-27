@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-27T19:57
+updated: 2025-02-27T21:30
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -357,3 +357,8 @@ Transmission completed in 4.3s.
 flash erase 0x180000 0xc00000
 
 flash write 0x180000 0x80001000 0xb4024b
+
+
+
+
+luci-app-autotimeset luci-app-ttyd kmod-rkp-ipid iptables-mod-filter iptables-mod-ipopt iptables-mod-u32 iptables-nft kmod-ipt-ipopt ipset iptables-mod-conntrack-extra -ppp -ppp-mod-pppoe -uclient-fetch -luci-app-fan
