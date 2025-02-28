@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "712be3cddecdb67d",
+            "id": "6b1e67bde3e82c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web渗透/kali安装.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kali安装"
+              "title": "未命名"
             }
           }
         ]
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kali",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,8 +235,11 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "712be3cddecdb67d",
+  "active": "6b1e67bde3e82c1a",
   "lastOpenFiles": [
+    "assets/Pasted image 20250228165816.png",
+    "未命名.md",
+    "web渗透/kali安装.md",
     "OpenWRT/openwrt绕校园网检测.md",
     "unity/Vector3的使用.md",
     "OpenWRT",
@@ -280,9 +283,6 @@
     "web渗透/2024高校联盟CTF杯的官方WP.md",
     "测试/US.KG域名 1.md",
     "测试/HEXO管理系统 1.md",
-    "HEXO管理系统/HEXO管理系统.md",
-    "web渗透/Cookie注入.md",
-    "web渗透/未命名.md",
     "杂项/未命名 1.canvas",
     "杂项/未命名.canvas"
   ]
