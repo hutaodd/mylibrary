@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-28T08:06
+updated: 2025-02-28T08:25
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -376,4 +376,19 @@ mount /dev/mtdblock9 /tmp/extroot
 tar -C /tmp/introot -cvf - . | tar -C /tmp/extroot -xf -
 umount /tmp/introot
 umount /tmp/extroot
+
+
+mtd0: 00030000 00010000 "u-boot"
+mtd1: 00010000 00010000 "u-boot-env"
+mtd2: 00010000 00010000 "Bdata"
+mtd3: 00010000 00010000 "factory"
+mtd4: 00010000 00010000 "crash"
+mtd5: 00010000 00010000 "cfg_bak"
+mtd6: 00100000 00010000 "overlay"
+mtd7: 00e80000 00010000 "firmware"
+mtd8: 0033fe7d 00010000 "kernel"
+mtd9: 00b40183 00010000 "rootfs"
+mtd10: 00280000 00010000 "rootfs_data"
+
+
 
