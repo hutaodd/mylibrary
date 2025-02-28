@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3246fd25080f67b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unity/生命周期方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "生命周期方法"
-            }
-          },
-          {
-            "id": "9529a68b49e0112c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unity/Vector3的使用.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vector3的使用"
-            }
-          },
-          {
             "id": "712be3cddecdb67d",
             "type": "leaf",
             "state": {
@@ -79,8 +31,7 @@
               "title": "openwrt绕校园网检测"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df85f184cda00538",
@@ -275,7 +227,12 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "github-sync:Sync with Remote": false,
+      "i18n:I18N": false,
+      "pkmer:打开 Pkmer 插件市场": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "vscode-editor:新建代码文件": false
     }
   },
   "active": "712be3cddecdb67d",

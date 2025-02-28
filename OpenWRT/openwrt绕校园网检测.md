@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T11:59
-updated: 2025-02-28T08:05
+updated: 2025-02-28T08:06
 ---
 ## 原理
 使用openwrt配合插件设置,反ua检测,反ipid检测,反ttl检测,反flashcookie检测,反时间戳检测
@@ -372,7 +372,8 @@ flash write 0x180000 0x80001000 0xc0024b
 mkdir -p /tmp/introot
 mkdir -p /tmp/extroot
 mount --bind / /tmp/introot
-mount /dev/sda1 /tmp/extroot
+mount /dev/mtdblock9 /tmp/extroot
 tar -C /tmp/introot -cvf - . | tar -C /tmp/extroot -xf -
 umount /tmp/introot
 umount /tmp/extroot
+
