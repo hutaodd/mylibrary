@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "title": "插件不再活动"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "735f5caea4a955b4",
@@ -121,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df85f184cda00538",
@@ -235,7 +235,7 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "712be3cddecdb67d",
+  "active": "45244199b8da4727",
   "lastOpenFiles": [
     "unity/Vector3的使用.md",
     "OpenWRT/openwrt绕校园网检测.md",
