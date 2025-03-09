@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "附件",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 20
+  },
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "newLinkFormat": "absolute",
+  "uriCallbacks": false
+}
